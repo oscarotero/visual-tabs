@@ -5,6 +5,7 @@
   "tasks": {
     "dev": "deno serve -A cms.ts"
   },
+  "lock": false,
   "lint": {
     "rules": {
       "exclude": [
