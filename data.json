@@ -1,0 +1,19 @@
+{
+  "slides": [
+    {
+      "type": "tweet",
+      "title": "This a beautiful title",
+      "text": "<p>Just finished building this awesome tweet card component! Clean design with HTML and CSS only. Sometimes the simplest solutions are the best ones.</p>",
+      "url": "https://x.com",
+      "date": "Dec 28, 2025",
+      "author": "Eleanor Roosevelt",
+      "username": "@eleanor",
+      "avatar": "/img/avatar-eleanor.webp"
+    },
+    {
+      "type": "visual",
+      "title": "This a beautiful title",
+      "image": "/img/network.svg"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@0.14.2/"
+  },
+  "tasks": {
+    "dev": "deno serve -A cms.ts"
+  }
+}
