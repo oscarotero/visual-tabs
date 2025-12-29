@@ -4,5 +4,12 @@
   },
   "tasks": {
     "dev": "deno serve -A cms.ts"
+  },
+  "lint": {
+    "rules": {
+      "exclude": [
+        "no-import-prefix"
+      ]
+    }
   }
 }
