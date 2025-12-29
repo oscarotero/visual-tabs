@@ -5,6 +5,15 @@ const cms = lumeCMS();
 
 cms.storage("src", ".");
 
+const user = Deno.env.get("CMS_USER") ?? "admin";
+const pass = Deno.env.get("CMS_PASSWORD") ?? "";
+
+cms.auth({
+  [user]: pass,
+});
+
+cms.git();
+
 cms.document({
   name: "Slides",
   store: "src:data.json",

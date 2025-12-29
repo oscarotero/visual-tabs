@@ -4,7 +4,7 @@
     "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@0.14.3/"
   },
   "tasks": {
-    "lume": "deno run -A cms.ts",
+    "lume": "deno run -A --env-file cms.ts",
     "dev": "deno task lume"
   },
   "lock": false,
