@@ -1,4 +1,5 @@
 import lumeCMS from "lume/cms/mod.ts";
+import { parseArgs } from "@std/cli/parse-args";
 
 const cms = lumeCMS();
 
@@ -46,4 +47,9 @@ cms.document({
 
 cms.upload("images", "src:img");
 
-export default cms;
+const args = parseArgs(Deno.args);
+Deno.serve({
+  handler: cms.fetch,
+  port: args.port,
+  hostname: args.hostname,
+});

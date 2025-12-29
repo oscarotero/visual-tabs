@@ -1,9 +1,11 @@
 {
   "imports": {
+    "@std/cli": "jsr:@std/cli@1.0.25",
     "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@0.14.2/"
   },
   "tasks": {
-    "dev": "deno serve -A cms.ts"
+    "lume": "deno run -A cms.ts",
+    "dev": "deno task lume"
   },
   "lock": false,
   "lint": {
