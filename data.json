@@ -405,6 +405,26 @@
       "author": "Erika Hall",
       "username": "mulegirl",
       "avatar": "/img/avatar-erika.jpg"
+    },
+    {
+      "type": "visual",
+      "title": "Community",
+      "image": "/img/community.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Culture",
+      "image": "/img/culture.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Ecosystem",
+      "image": "/img/ecosystem.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Platform",
+      "image": "/img/platform.svg"
     }
   ]
 }
