@@ -1,19 +1,410 @@
 {
   "slides": [
     {
+      "type": "visual",
+      "title": "Purpose",
+      "image": "/img/purpose.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Mission",
+      "image": "/img/mission.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Values",
+      "image": "/img/circles-values.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Beliefs",
+      "image": "/img/beliefs.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Strategy",
+      "image": "/img/strategy.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Prosperity › Progress",
+      "image": "/img/triangles-prosperity.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Network Effects",
+      "image": "/img/network.svg"
+    },
+    {
       "type": "tweet",
-      "title": "This a beautiful title",
-      "text": "<p>Just finished building this awesome tweet card component! Clean design with HTML and CSS only. Sometimes the simplest solutions are the best ones.</p>",
-      "url": "https://x.com",
-      "date": "Dec 28, 2025",
+      "title": "The Art of Debate",
+      "text": "<p>Great minds discuss ideas. Average minds discuss events. Small minds discuss people.</p>",
+      "date": "Mar 17, 1932",
       "author": "Eleanor Roosevelt",
       "username": "@eleanor",
       "avatar": "/img/avatar-eleanor.webp"
     },
     {
       "type": "visual",
-      "title": "This a beautiful title",
-      "image": "/img/network.svg"
+      "title": "The Butterfly Effect",
+      "image": "/img/butterfly.svg"
+    },
+    {
+      "type": "visual",
+      "title": "\"This is water\"",
+      "image": "/img/fishes-w.svg"
+    },
+    {
+      "type": "visual",
+      "title": "The Rebel",
+      "image": "/img/fishes-w.svg"
+    },
+    {
+      "type": "visual",
+      "title": "The Hero",
+      "image": "/img/hero.svg"
+    },
+    {
+      "type": "visual",
+      "title": "The Beauty of Freedom",
+      "image": "/img/butterfly.svg"
+    },
+    {
+      "type": "visual",
+      "title": "The Time Machine",
+      "image": "/img/flux-capacitator.svg"
+    },
+    {
+      "type": "tweet",
+      "title": "Needed To Be Said",
+      "text": "<p>Design is not just what it looks like and feels like. Design is how it works.</p>",
+      "date": "Apr 04, 2003",
+      "author": "Steve Jobs",
+      "username": "steve",
+      "avatar": "/img/avatar-jobs.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Stay Hungry, Stay Foolish.",
+      "text": "<p>You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.</p>",
+      "date": "Jun 12, 2005",
+      "author": "Steve Jobs",
+      "username": "steve",
+      "avatar": "/img/avatar-jobs.jpg"
+    },
+    {
+      "type": "visual",
+      "title": "The Art Of Business",
+      "image": "/img/olivetti-egg.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Complexity",
+      "image": "/img/complexity.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Productivity",
+      "image": "/img/productivity.svg"
+    },
+    {
+      "type": "tweet",
+      "title": "Serve & Service",
+      "text": "<p>The factory cannot look only at the profit index. It must distribute wealth, culture, services, and democracy. I think the factory for man.</p>",
+      "date": "Jun 27, 1958",
+      "author": "Adriano Olivetti",
+      "username": "adriano",
+      "avatar": "/img/avatar-adriano.jpg"
+    },
+    {
+      "type": "visual",
+      "title": "Justice",
+      "image": "/img/justice.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Tyranny",
+      "image": "/img/tyranny.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Democracy",
+      "image": "/img/democracy.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Citizen",
+      "image": "/img/citizen.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Focus On Mattering",
+      "image": "/img/circles-mattering.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Purpose To Grow",
+      "image": "/img/purpose-grow.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Purpose To Align",
+      "image": "/img/purpose-align.svg"
+    },
+    {
+      "type": "tweet",
+      "title": "No Bullshit",
+      "text": "<p>Authenticity is what inspires people. If you want to lead people, you have to show them who you really are. Otherwise, you’re just a thousand-dollar suit with nothing inside.</p>",
+      "date": "Sep 06, 1983",
+      "author": "Cameron Howe",
+      "username": "camlovelace",
+      "avatar": "/img/avatar-cameron.jpg"
+    },
+    {
+      "type": "visual",
+      "title": "Zeitgeist",
+      "image": "/img/zeitgeist.svg"
+    },
+    {
+      "type": "tweet",
+      "title": "Culture Matters",
+      "text": "<p>I believe it is a big mistake to think that money is the only way to compensate a person for his work. People need money, but they also want to be happy in their work and proud of it.</p>",
+      "date": "Feb 12, 1986",
+      "author": "Akio Morita",
+      "username": "akiosony",
+      "avatar": "/img/avatar-akio.jpg"
+    },
+    {
+      "type": "visual",
+      "title": "Weltanschauung",
+      "image": "/img/weltanschauung.svg"
+    },
+    {
+      "type": "visual",
+      "title": "\"Less, but better\"",
+      "image": "/img/braun-speaker.svg"
+    },
+    {
+      "type": "tweet",
+      "title": "Legacy",
+      "text": "<p>I want to build something that makes people fall in love.</p>",
+      "date": "Feb 23, 1984",
+      "author": "Cameron Howe",
+      "username": "camlovelace",
+      "avatar": "/img/avatar-cameron.jpg"
+    },
+    {
+      "type": "visual",
+      "title": "Dignity",
+      "image": "/img/un-logo.svg"
+    },
+    {
+      "type": "visual",
+      "title": "We The People",
+      "image": "/img/flag-us.svg"
+    },
+    {
+      "type": "tweet",
+      "title": "Avoid Doomscrolling",
+      "text": "<p>Attention is the rarest and purest form of generosity.</p>",
+      "date": "Apr 13, 1942",
+      "author": "Simone Weil",
+      "username": "simonethinking",
+      "avatar": "/img/avatar-simone.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Companies That Matter",
+      "text": "<p>I want my Olivetti to be not just a factory but a model, a lifestyle. I want it to produce freedom and beauty because those things, freedom and beauty, will tell us how to be happy.</p>",
+      "date": "Mar 08, 1955",
+      "author": "Adriano Olivetti",
+      "username": "adriano",
+      "avatar": "/img/avatar-adriano.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Meaning Of Life",
+      "text": "<p>Computers aren’t the thing. They’re the thing that gets us to the thing.</p>",
+      "date": "Jan 24, 1983",
+      "author": "Joe MacMillan",
+      "username": "joeceo",
+      "avatar": "/img/avatar-joe.jpg"
+    },
+    {
+      "type": "visual",
+      "title": "Assumptions",
+      "image": "/img/assumptions.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Behaviors",
+      "image": "/img/behaviors.svg"
+    },
+    {
+      "type": "tweet",
+      "title": "Capitalism",
+      "text": "<p>Early to bed, early to rise, work like hell and advertise.</p>",
+      "url": "https://x.com/TedTurnerIII",
+      "date": "Jun 03, 1977",
+      "author": "Ted Turner",
+      "username": "@TedTurnerIII",
+      "avatar": "/img/avatar-ted-turner.jpeg"
+    },
+    {
+      "type": "tweet",
+      "title": "Duties",
+      "text": "<p>The notion of obligations comes before that of rights, which is subordinate and relative to the former. A right is not effectual by itself, but only in relation to the obligation to which it corresponds.</p>",
+      "date": "Mar 20, 1942",
+      "author": "Simone Weil",
+      "username": "simonethinking",
+      "avatar": "/img/avatar-simone.jpg"
+    },
+    {
+      "type": "visual",
+      "title": "Break The Conventions",
+      "image": "/img/zhink.svg"
+    },
+    {
+      "type": "tweet",
+      "title": "The Bright Side Of Life",
+      "text": "<p>True definition of science: the study of the beauty of the world.</p>",
+      "date": "May 28, 1941",
+      "author": "Simone Weil",
+      "username": "simonethinking",
+      "avatar": "/img/avatar-simone.jpg"
+    },
+    {
+      "type": "visual",
+      "title": "A Full Life",
+      "image": "/img/life.svg"
+    },
+    {
+      "type": "tweet",
+      "title": "Humans",
+      "text": "<p>I realized that we create stories by imposing narrative on the events that happen around us.</p>",
+      "date": "Oct 03, 2009",
+      "author": "Nora Ephron",
+      "username": "shopgirl",
+      "avatar": "/img/avatar-nora.jpg"
+    },
+    {
+      "type": "visual",
+      "title": "Skin In The Game",
+      "image": "/img/skin-game.svg"
+    },
+    {
+      "type": "visual",
+      "title": "August Landmesser",
+      "image": "/img/august-landmesser.svg"
+    },
+    {
+      "type": "tweet",
+      "title": "Braun Design",
+      "text": "<p>Good design is as little as possible. Less, but better, because it concentrates on the essential aspects,  and the products are not burdened with non-essentials. Back to purity, back to simplicity.</p>",
+      "date": "Aug 06, 1974",
+      "author": "Dieter Tams",
+      "username": "dieteradio",
+      "avatar": "/img/avatar-dieter.jpg"
+    },
+    {
+      "type": "visual",
+      "title": "Memerable",
+      "image": "/img/memerable.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Memorable",
+      "image": "/img/memorable.svg"
+    },
+    {
+      "type": "tweet",
+      "title": "Prosperity vs. Progress",
+      "text": "<p>Progress is not only material growth, but civil and spiritual elevation.</p>",
+      "date": "Oct 15, 1952",
+      "author": "Adriano Olivetti",
+      "username": "adriano",
+      "avatar": "/img/avatar-adriano.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Reading is sexy",
+      "text": "<p>Reading is everything. Reading makes me feel like I've accomplished something, learned something, become a better person.</p>",
+      "date": "Jan 14, 2006",
+      "author": "Nora Ephron",
+      "username": "shopgirl",
+      "avatar": "/img/avatar-nora.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Inventing the Future",
+      "text": "<p>Our plan is to lead the public with new products rather than ask them what kind of products they want.</p>",
+      "date": "Nov 04, 1972",
+      "author": "Akio Morita",
+      "username": "akiosony",
+      "avatar": "/img/avatar-akio.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "How To Win",
+      "text": "<p>There are three creativities: creativity in technology, in product planning, and in marketing. To have any one of these without the others is self defeating in business.</p>",
+      "date": "Feb 26, 1986",
+      "author": "Akio Morita",
+      "username": "akiosony",
+      "avatar": "/img/avatar-akio.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Made in Japan",
+      "text": "<p>If we face recession, we should not lay off employees; the company should sacrifice a profit. It's management's risk and management's responsibility. Employees are not guilty; why should they suffer?</p>",
+      "date": "Feb 27, 1986",
+      "author": "Akio Morita",
+      "username": "akiosony",
+      "avatar": "/img/avatar-akio.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Build",
+      "text": "<p>Everything around you that you call life was made up by people that were no smarter than you.</p>",
+      "date": "Sep 06, 1995",
+      "author": "Steve Jobs",
+      "username": "steve",
+      "avatar": "/img/avatar-jobs.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Made in Germany",
+      "text": "<p>First and foremost, Braun's special design method is based on constant and close cooperation between product designers and engineers, between communication and marketing, and above all between product design and communication. </p>",
+      "date": "May 26, 1973",
+      "author": "Fritz Eichler",
+      "username": "fritzbraun",
+      "avatar": "/img/avatar-fritz.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Good Design",
+      "text": "<p>Good design is innovative. Good design must be useful. Good design is aesthetic design. Good design makes a product understandable. Good design is honest. Good design is unobtrusive. Good design is durable. Good design is coherent down to the last detail. Good design is environmentally friendly. And last but not least, good design is as little design as possible.</p>",
+      "date": "May 26, 1978",
+      "author": "Dieter Tams",
+      "username": "dieteradio",
+      "avatar": "/img/avatar-dieter.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Form Follows Function",
+      "text": "<p>Design should not dominate things, should not dominate people. It should help people. That is its role.</p>",
+      "date": "Sep 09, 1958",
+      "author": "Dieter Tams",
+      "username": "dieteradio",
+      "avatar": "/img/avatar-dieter.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Human Nature",
+      "text": "<p>Starting a company? Have a decent funding? Hire an in-house anthropologist and writer before engineers and visual designers. You will be far less likely to build a highly polished stupid thing no one understands or cares about.</p>",
+      "date": "Apr 12, 2019",
+      "author": "Erika Hall",
+      "username": "mulegirl",
+      "avatar": "/img/avatar-erika.jpg"
     }
   ]
 }
