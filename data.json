@@ -242,7 +242,7 @@
     },
     {
       "type": "tweet",
-      "title": "Capitalism",
+      "title": "Commerce is a Civilizing Force",
       "text": "<p>Early to bed, early to rise, work like hell and advertise.</p>",
       "url": "https://x.com/TedTurnerIII",
       "date": "Jun 03, 1977",
@@ -399,7 +399,7 @@
     },
     {
       "type": "tweet",
-      "title": "Human Nature",
+      "title": "Good Writing is Clear Thinking",
       "text": "<p>Starting a company? Have a decent funding? Hire an in-house anthropologist and writer before engineers and visual designers. You will be far less likely to build a highly polished stupid thing no one understands or cares about.</p>",
       "date": "Apr 12, 2019",
       "author": "Erika Hall",
@@ -540,7 +540,7 @@
       "text": "<p>If we want a nation that feels hopeful, then we have to speak in hopeful terms. We have to model what we want.</p>",
       "date": "Dec 20, 2016",
       "author": "Michelle Obama",
-      "username": "MichelleObama",
+      "username": "@MichelleObama",
       "avatar": "/img/avatar-michelle-obama.jpg"
     },
     {
@@ -549,7 +549,7 @@
       "text": "<p>When they go low, we go high.</p>",
       "date": "Jul 26, 2016",
       "author": "Michelle Obama",
-      "username": "MichelleObama",
+      "username": "@MichelleObama",
       "avatar": "/img/avatar-michelle-obama.jpg"
     }
   ]
