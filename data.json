@@ -84,15 +84,6 @@
       "avatar": "/img/avatar-jobs.jpg"
     },
     {
-      "type": "tweet",
-      "title": "Stay Hungry, Stay Foolish.",
-      "text": "<p>You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.</p>",
-      "date": "Jun 12, 2005",
-      "author": "Steve Jobs",
-      "username": "steve",
-      "avatar": "/img/avatar-jobs.jpg"
-    },
-    {
       "type": "visual",
       "title": "The Art Of Business",
       "image": "/img/olivetti-egg.svg"
@@ -106,6 +97,15 @@
       "type": "visual",
       "title": "Productivity",
       "image": "/img/productivity.svg"
+    },
+    {
+      "type": "tweet",
+      "title": "Stay Hungry, Stay Foolish.",
+      "text": "<p>You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.</p>",
+      "date": "Jun 12, 2005",
+      "author": "Steve Jobs",
+      "username": "steve",
+      "avatar": "/img/avatar-jobs.jpg"
     },
     {
       "type": "tweet",
@@ -161,11 +161,6 @@
       "avatar": "/img/avatar-cameron.jpg"
     },
     {
-      "type": "visual",
-      "title": "Zeitgeist",
-      "image": "/img/zeitgeist.svg"
-    },
-    {
       "type": "tweet",
       "title": "Culture Matters",
       "text": "<p>I believe it is a big mistake to think that money is the only way to compensate a person for his work. People need money, but they also want to be happy in their work and proud of it.</p>",
@@ -178,6 +173,11 @@
       "type": "visual",
       "title": "Weltanschauung",
       "image": "/img/weltanschauung.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Zeitgeist",
+      "image": "/img/zeitgeist.svg"
     },
     {
       "type": "visual",
@@ -222,15 +222,6 @@
       "avatar": "/img/avatar-adriano.jpg"
     },
     {
-      "type": "tweet",
-      "title": "Meaning Of Life",
-      "text": "<p>Computers aren’t the thing. They’re the thing that gets us to the thing.</p>",
-      "date": "Jan 24, 1983",
-      "author": "Joe MacMillan",
-      "username": "joeceo",
-      "avatar": "/img/avatar-joe.jpg"
-    },
-    {
       "type": "visual",
       "title": "Assumptions",
       "image": "/img/assumptions.svg"
@@ -242,6 +233,15 @@
     },
     {
       "type": "tweet",
+      "title": "Meaning Of Life",
+      "text": "<p>Computers aren’t the thing. They’re the thing that gets us to the thing.</p>",
+      "date": "Jan 24, 1983",
+      "author": "Joe MacMillan",
+      "username": "joeceo",
+      "avatar": "/img/avatar-joe.jpg"
+    },
+    {
+      "type": "tweet",
       "title": "Capitalism",
       "text": "<p>Early to bed, early to rise, work like hell and advertise.</p>",
       "url": "https://x.com/TedTurnerIII",
@@ -249,15 +249,6 @@
       "author": "Ted Turner",
       "username": "@TedTurnerIII",
       "avatar": "/img/avatar-ted-turner.jpeg"
-    },
-    {
-      "type": "tweet",
-      "title": "Duties",
-      "text": "<p>The notion of obligations comes before that of rights, which is subordinate and relative to the former. A right is not effectual by itself, but only in relation to the obligation to which it corresponds.</p>",
-      "date": "Mar 20, 1942",
-      "author": "Simone Weil",
-      "username": "simonethinking",
-      "avatar": "/img/avatar-simone.jpg"
     },
     {
       "type": "visual",
@@ -277,6 +268,15 @@
       "type": "visual",
       "title": "A Full Life",
       "image": "/img/life.svg"
+    },
+    {
+      "type": "tweet",
+      "title": "Duties",
+      "text": "<p>The notion of obligations comes before that of rights, which is subordinate and relative to the former. A right is not effectual by itself, but only in relation to the obligation to which it corresponds.</p>",
+      "date": "Mar 20, 1942",
+      "author": "Simone Weil",
+      "username": "simonethinking",
+      "avatar": "/img/avatar-simone.jpg"
     },
     {
       "type": "tweet",
@@ -302,7 +302,7 @@
       "title": "Braun Design",
       "text": "<p>Good design is as little as possible. Less, but better, because it concentrates on the essential aspects,  and the products are not burdened with non-essentials. Back to purity, back to simplicity.</p>",
       "date": "Aug 06, 1974",
-      "author": "Dieter Tams",
+      "author": "Dieter Rams",
       "username": "dieteradio",
       "avatar": "/img/avatar-dieter.jpg"
     },
@@ -384,7 +384,7 @@
       "title": "Good Design",
       "text": "<p>Good design is innovative. Good design must be useful. Good design is aesthetic design. Good design makes a product understandable. Good design is honest. Good design is unobtrusive. Good design is durable. Good design is coherent down to the last detail. Good design is environmentally friendly. And last but not least, good design is as little design as possible.</p>",
       "date": "May 26, 1978",
-      "author": "Dieter Tams",
+      "author": "Dieter Rams",
       "username": "dieteradio",
       "avatar": "/img/avatar-dieter.jpg"
     },
@@ -393,7 +393,7 @@
       "title": "Form Follows Function",
       "text": "<p>Design should not dominate things, should not dominate people. It should help people. That is its role.</p>",
       "date": "Sep 09, 1958",
-      "author": "Dieter Tams",
+      "author": "Dieter Rams",
       "username": "dieteradio",
       "avatar": "/img/avatar-dieter.jpg"
     },
