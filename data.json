@@ -497,6 +497,60 @@
       "author": "José Ortega y Gasset",
       "username": "@ortega",
       "avatar": "/img/avatar-ortega.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Stories › Atoms",
+      "text": "<p>Storytelling reveals meaning without committing the error of defining it.</p>",
+      "date": "Aug 21, 1968",
+      "author": "Hannah Arendt",
+      "username": "@arendt",
+      "avatar": "/img/avatar-arendt.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Say No To The Fear Narratives",
+      "text": "<p>A fundamental difference between modern dictatorships and all other tyrannies of the past is that terror is no longer used as a means to exterminate and frighten opponents, but as an instrument to rule masses of people who are perfectly obedient.</p>",
+      "date": "Sep 12, 1947",
+      "author": "Hannah Arendt",
+      "username": "@arendt",
+      "avatar": "/img/avatar-arendt.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Set The Example",
+      "text": "<p>Children have never been very good at listening to their elders, but they have never failed to imitate them.</p>",
+      "date": "Jan 15, 1969",
+      "author": "James Baldwin",
+      "username": "@jbwin",
+      "avatar": "/img/avatar-baldwin.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Patriotism",
+      "text": "<p>I love America more than any other country in the world and, exactly for this reason, I insist on the right to criticize her perpetually.</p>",
+      "date": "May 24, 1985",
+      "author": "James Baldwin",
+      "username": "@jbwin",
+      "avatar": "/img/avatar-baldwin.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Hope as Strategy",
+      "text": "<p>If we want a nation that feels hopeful, then we have to speak in hopeful terms. We have to model what we want.</p>",
+      "date": "Dec 20, 2016",
+      "author": "Michelle Obama",
+      "username": "MichelleObama",
+      "avatar": "/img/avatar-michelle-obama.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Hope › Hate",
+      "text": "<p>When they go low, we go high.</p>",
+      "date": "Jul 26, 2016",
+      "author": "Michelle Obama",
+      "username": "MichelleObama",
+      "avatar": "/img/avatar-michelle-obama.jpg"
     }
   ]
 }
