@@ -551,6 +551,87 @@
       "author": "Michelle Obama",
       "username": "@MichelleObama",
       "avatar": "/img/avatar-michelle-obama.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Honesty",
+      "text": "<p>A principle isn't a principle until it costs you something.</p>",
+      "date": "May 07, 1968",
+      "author": "Bill Bernbach",
+      "username": "@bb",
+      "avatar": "/img/avatar-bernbach.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Creative Revolution",
+      "text": "<p>Creativity is the most powerful force in business.&nbsp;It may well be the last unfair advantage we're legally allowed to take over our competitors.</p>",
+      "date": "Jul 28, 1964",
+      "author": "Bill Bernbach",
+      "username": "@bb",
+      "avatar": "/img/avatar-bernbach.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Responsability",
+      "text": "<p>All of us who professionally use the mass media are the shapers of society. We can vulgarize that society. We can brutalize it. Or we can help lift it onto a higher level.</p>",
+      "date": "Apr 06, 1964",
+      "author": "Bill Bernbach",
+      "username": "@bb",
+      "avatar": "/img/avatar-bernbach.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Brave Mad Men",
+      "text": "<p>Let us prove to the world that good taste, good art, good writing can be good selling.</p>",
+      "date": "May 15, 1947",
+      "author": "Bill Bernbach",
+      "username": "@bb",
+      "avatar": "/img/avatar-bernbach.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Curiosity",
+      "text": "<p>You can’t just be you. You have to double yourself. You have to read books on subjects you know nothing about. You have to travel to places you never thought of traveling. You have to meet every kind of person and endlessly stretch what you know.</p>",
+      "date": "Apr 23, 2006",
+      "author": "Mary Wells Lawrece",
+      "username": "@mwl",
+      "avatar": "/img/avatar-mary-lawrence.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Make Me Feel",
+      "text": "<p>Advertising is not a science, it is persuasion, and persuasion is an art, it is intuition that leads to discovery, to inspiration, it is the artist who is capable of making the consumer feel desire.</p>",
+      "date": "May 05, 1978",
+      "author": "Mary Wells Lawrece",
+      "username": "@mwl",
+      "avatar": "/img/avatar-mary-lawrence.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Learn To Write",
+      "text": "<p>The better you write, the higher you go in Ogilvy &amp; Mather. People who think well, write well.</p>",
+      "date": "Jan 23, 1969",
+      "author": "David Ogilvy",
+      "username": "@davidog",
+      "avatar": "/img/avatar-ogilvy.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Enchant",
+      "text": "<p>Avoid superlatives, generalizations, and platitudes. Be specific and factual. Be enthusiastic, friendly, and memorable. Don't be a bore. Tell the truth, but make the truth fascinating.</p>",
+      "date": "Sep 27, 1982",
+      "author": "David Ogilvy",
+      "username": "@davidog",
+      "avatar": "/img/avatar-ogilvy.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Committees Kill Creativity",
+      "text": "<p>Much of the messy advertising you see on television today is the product of committees. Committees can criticize advertisements, but they should never be allowed to create them</p>",
+      "date": "Feb 13, 1963",
+      "author": "David Ogilvy",
+      "username": "@davidog",
+      "avatar": "/img/avatar-ogilvy.jpg"
     }
   ]
 }
