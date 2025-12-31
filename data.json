@@ -214,7 +214,7 @@
     },
     {
       "type": "tweet",
-      "title": "The Best CEO in History",
+      "title": "Humanism",
       "text": "<p>I want my Olivetti to be not just a factory but a model, a lifestyle. I want it to produce freedom and beauty because those things, freedom and beauty, will tell us how to be happy.</p>",
       "date": "Dec 20, 1955",
       "author": "Adriano Olivetti",
@@ -688,6 +688,96 @@
       "type": "visual",
       "title": "Companies That Matter",
       "image": "/img/narrative-companies.svg"
+    },
+    {
+      "type": "tweet",
+      "title": "Self-confidence",
+      "text": "<p>Teamwork might work in building an Amish barn, but it can’t create a big idea… Everybody believes in co-creativity—not me. Be confident of your own, edgy, solo talent.</p>",
+      "date": "Apr 29, 2018",
+      "author": "George Lois",
+      "username": "@saintgeorge",
+      "avatar": "/img/avatar-george-lois.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Wealth",
+      "text": "<p>Working hard and doing doing great work is as imperative as breathing. Creating great work warms the heart and enriches the soul. Those of us lucky enough to spend our days doing something we love, something we're good at, are rich.</p>",
+      "date": "May 12, 1998",
+      "author": "George Lois",
+      "username": "@saintgeorge",
+      "avatar": "/img/avatar-george-lois.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Happy Life",
+      "text": "<p>The joy of the creative process, minute by minute, hour after hour, day by day, is the sublime path to true happiness.</p>",
+      "date": "Jan 24, 1978",
+      "author": "George Lois",
+      "username": "@saintgeorge",
+      "avatar": "/img/avatar-george-lois.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Clarity",
+      "text": "<p>Remember: It's not how short you make it; it's how you make it short. Think long. Write short.</p>",
+      "date": "Aug 04, 1967",
+      "author": "George Lois",
+      "username": "@saintgeorge",
+      "avatar": "/img/avatar-george-lois.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "The Mass Man",
+      "text": "<p>People want to be told what to do so badly that they'll listen to anyone.</p>",
+      "date": "Sep 30, 1967",
+      "author": "Don Draper",
+      "username": "@draper",
+      "avatar": "/img/avatar-draper.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "The Job",
+      "text": "<p>Advertising is based on one thing: happiness. And do you know what happiness is? Happiness is the smell of a new car. It’s freedom from fear. It’s a billboard on the side of a road that screams with reassurance that whatever you’re doing is OK. You are OK.</p>",
+      "date": "Mar 23, 1960",
+      "author": "Don Draper",
+      "username": "@draper",
+      "avatar": "/img/avatar-draper.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Framing",
+      "text": "<p>If you don't like what's being said, change the conversation.</p>",
+      "date": "Apr 05, 1963",
+      "author": "Don Draper",
+      "username": "@draper",
+      "avatar": "/img/avatar-draper.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Individuality",
+      "text": "<p>I’m watching this new lipstick commercial. I don’t think anyone wants to be one of a hundred colors in a box.</p>",
+      "date": "Oct 28, 1960",
+      "author": "Peggy Olson",
+      "username": "@peggyolson",
+      "avatar": "/img/avatar-peggy.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Originality",
+      "text": "<p>I'd never recommend imitation as a strategy. You'll be second, which is very far from first.</p>",
+      "date": "May 02, 1966",
+      "author": "Peggy Olson",
+      "username": "@peggyolson",
+      "avatar": "/img/avatar-peggy.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Seniority",
+      "text": "<p>If you can't tell the difference between which part's the idea and which part's the execution of the idea, you're of no use to me.</p>",
+      "date": "Mar 26, 1970",
+      "author": "Peggy Olson",
+      "username": "@peggyolson",
+      "avatar": "/img/avatar-peggy.jpg"
     }
   ]
 }
