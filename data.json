@@ -214,9 +214,9 @@
     },
     {
       "type": "tweet",
-      "title": "Companies That Matter",
+      "title": "The Best CEO in History",
       "text": "<p>I want my Olivetti to be not just a factory but a model, a lifestyle. I want it to produce freedom and beauty because those things, freedom and beauty, will tell us how to be happy.</p>",
-      "date": "Mar 08, 1955",
+      "date": "Dec 20, 1955",
       "author": "Adriano Olivetti",
       "username": "@adriano",
       "avatar": "/img/avatar-adriano.jpg"
@@ -673,6 +673,21 @@
       "type": "visual",
       "title": "A Culture of Elevation",
       "image": "/img/culture-elevation.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Team Alignment",
+      "image": "/img/team.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Wisdom",
+      "image": "/img/wisdom.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Companies That Matter",
+      "image": "/img/narrative-companies.svg"
     }
   ]
 }
