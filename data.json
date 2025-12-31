@@ -694,11 +694,6 @@
       "image": "/img/wisdom.svg"
     },
     {
-      "type": "visual",
-      "title": "Companies That Matter",
-      "image": "/img/narrative-companies.svg"
-    },
-    {
       "type": "tweet",
       "title": "Self-confidence",
       "text": "<p>Teamwork might work in building an Amish barn, but it can’t create a big idea… Everybody believes in co-creativity—not me. Be confident of your own, edgy, solo talent.</p>",
@@ -762,6 +757,11 @@
       "avatar": "/img/avatar-draper.jpg"
     },
     {
+      "type": "visual",
+      "title": "Companies That Matter",
+      "image": "/img/narrative-companies.svg"
+    },
+    {
       "type": "tweet",
       "title": "Individuality",
       "text": "<p>I’m watching this new lipstick commercial. I don’t think anyone wants to be one of a hundred colors in a box.</p>",
@@ -814,6 +814,36 @@
       "author": "John Hegarty",
       "username": "@hegarty",
       "avatar": "/img/avatar-hegarty.jpg"
+    },
+    {
+      "type": "visual",
+      "title": "Avoid Noise",
+      "image": "/img/point-focus.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Everything is a Remix",
+      "image": "/img/remix.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Open › Closed",
+      "image": "/img/open.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Elevation",
+      "image": "/img/elevation.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Create Heaven On Earth",
+      "image": "/img/heaven-doors.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Burocracy",
+      "image": "/img/maze.svg"
     }
   ]
 }
