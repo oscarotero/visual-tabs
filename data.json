@@ -516,6 +516,15 @@
       "avatar": "/img/avatar-baldwin.jpg"
     },
     {
+      "type": "tweet",
+      "title": "Populism",
+      "text": "<p>Ignorance, allied with power, is the most ferocious enemy justice can have.</p>",
+      "date": "May 06, 1972",
+      "author": "James Baldwin",
+      "username": "@jbwin",
+      "avatar": "/img/avatar-baldwin.jpg"
+    },
+    {
       "type": "visual",
       "title": "\"Good Sees It\"",
       "image": "/img/eye.svg"
@@ -778,6 +787,33 @@
       "author": "Peggy Olson",
       "username": "@peggyolson",
       "avatar": "/img/avatar-peggy.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Real Value",
+      "text": "<p>Don't just start a business, build a brand.</p>",
+      "date": "May 01, 2017",
+      "author": "John Hegarty",
+      "username": "@hegarty",
+      "avatar": "/img/avatar-hegarty.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Creativity at its Best",
+      "text": "<p>Advertising is far more than just a communications industry. It's a problem-solving industry that also teaches you about life, how it encourages you to focus your thinking and produce something of genuine value. Why? Because that will make the advertising task so much easier.</p>",
+      "date": "Feb 26, 2011",
+      "author": "John Hegarty",
+      "username": "@hegarty",
+      "avatar": "/img/avatar-hegarty.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Real Power",
+      "text": "<p>Creativity can change the way we feel about something and will stay with us for eternity.</p>",
+      "date": "Mar 16, 2010",
+      "author": "John Hegarty",
+      "username": "@hegarty",
+      "avatar": "/img/avatar-hegarty.jpg"
     }
   ]
 }
