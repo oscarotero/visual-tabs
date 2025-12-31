@@ -407,14 +407,23 @@
       "avatar": "/img/avatar-erika.jpg"
     },
     {
-      "type": "visual",
-      "title": "Community",
-      "image": "/img/community.svg"
+      "type": "tweet",
+      "title": "Creative Revolution",
+      "text": "<p>Creativity is the most powerful force in business.&nbsp;It may well be the last unfair advantage we're legally allowed to take over our competitors.</p>",
+      "date": "Jul 28, 1964",
+      "author": "Bill Bernbach",
+      "username": "@bb",
+      "avatar": "/img/avatar-bernbach.jpg"
     },
     {
       "type": "visual",
       "title": "Culture",
       "image": "/img/culture.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Community",
+      "image": "/img/community.svg"
     },
     {
       "type": "visual",
@@ -432,6 +441,15 @@
       "image": "/img/vw-again.svg"
     },
     {
+      "type": "tweet",
+      "title": "Stories › Atoms",
+      "text": "<p>Storytelling reveals meaning without committing the error of defining it.</p>",
+      "date": "Aug 21, 1968",
+      "author": "Hannah Arendt",
+      "username": "@arendt",
+      "avatar": "/img/avatar-arendt.jpg"
+    },
+    {
       "type": "visual",
       "title": "Loyalty",
       "image": "/img/loyalty.svg"
@@ -447,9 +465,36 @@
       "image": "/img/waterdrop.svg"
     },
     {
+      "type": "tweet",
+      "title": "Brave Mad Men",
+      "text": "<p>Let us prove to the world that good taste, good art, good writing can be good selling.</p>",
+      "date": "May 15, 1947",
+      "author": "Bill Bernbach",
+      "username": "@bb",
+      "avatar": "/img/avatar-bernbach.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Hope › Hate",
+      "text": "<p>When they go low, we go high.</p>",
+      "date": "Jul 26, 2016",
+      "author": "Michelle Obama",
+      "username": "@MichelleObama",
+      "avatar": "/img/avatar-michelle-obama.jpg"
+    },
+    {
       "type": "visual",
       "title": "Minimum Virtuous Product",
       "image": "/img/m-virtuous-p.svg"
+    },
+    {
+      "type": "tweet",
+      "title": "Honesty",
+      "text": "<p>A principle isn't a principle until it costs you something.</p>",
+      "date": "May 07, 1968",
+      "author": "Bill Bernbach",
+      "username": "@bb",
+      "avatar": "/img/avatar-bernbach.jpg"
     },
     {
       "type": "visual",
@@ -460,6 +505,15 @@
       "type": "visual",
       "title": "Build A Safety Culture",
       "image": "/img/safety.svg"
+    },
+    {
+      "type": "tweet",
+      "title": "Set The Example",
+      "text": "<p>Children have never been very good at listening to their elders, but they have never failed to imitate them.</p>",
+      "date": "Jan 15, 1969",
+      "author": "James Baldwin",
+      "username": "@jbwin",
+      "avatar": "/img/avatar-baldwin.jpg"
     },
     {
       "type": "visual",
@@ -500,30 +554,12 @@
     },
     {
       "type": "tweet",
-      "title": "Stories › Atoms",
-      "text": "<p>Storytelling reveals meaning without committing the error of defining it.</p>",
-      "date": "Aug 21, 1968",
-      "author": "Hannah Arendt",
-      "username": "@arendt",
-      "avatar": "/img/avatar-arendt.jpg"
-    },
-    {
-      "type": "tweet",
       "title": "Say No To The Fear Narratives",
       "text": "<p>A fundamental difference between modern dictatorships and all other tyrannies of the past is that terror is no longer used as a means to exterminate and frighten opponents, but as an instrument to rule masses of people who are perfectly obedient.</p>",
       "date": "Sep 12, 1947",
       "author": "Hannah Arendt",
       "username": "@arendt",
       "avatar": "/img/avatar-arendt.jpg"
-    },
-    {
-      "type": "tweet",
-      "title": "Set The Example",
-      "text": "<p>Children have never been very good at listening to their elders, but they have never failed to imitate them.</p>",
-      "date": "Jan 15, 1969",
-      "author": "James Baldwin",
-      "username": "@jbwin",
-      "avatar": "/img/avatar-baldwin.jpg"
     },
     {
       "type": "tweet",
@@ -545,45 +581,9 @@
     },
     {
       "type": "tweet",
-      "title": "Hope › Hate",
-      "text": "<p>When they go low, we go high.</p>",
-      "date": "Jul 26, 2016",
-      "author": "Michelle Obama",
-      "username": "@MichelleObama",
-      "avatar": "/img/avatar-michelle-obama.jpg"
-    },
-    {
-      "type": "tweet",
-      "title": "Honesty",
-      "text": "<p>A principle isn't a principle until it costs you something.</p>",
-      "date": "May 07, 1968",
-      "author": "Bill Bernbach",
-      "username": "@bb",
-      "avatar": "/img/avatar-bernbach.jpg"
-    },
-    {
-      "type": "tweet",
-      "title": "Creative Revolution",
-      "text": "<p>Creativity is the most powerful force in business.&nbsp;It may well be the last unfair advantage we're legally allowed to take over our competitors.</p>",
-      "date": "Jul 28, 1964",
-      "author": "Bill Bernbach",
-      "username": "@bb",
-      "avatar": "/img/avatar-bernbach.jpg"
-    },
-    {
-      "type": "tweet",
       "title": "Responsability",
       "text": "<p>All of us who professionally use the mass media are the shapers of society. We can vulgarize that society. We can brutalize it. Or we can help lift it onto a higher level.</p>",
       "date": "Apr 06, 1964",
-      "author": "Bill Bernbach",
-      "username": "@bb",
-      "avatar": "/img/avatar-bernbach.jpg"
-    },
-    {
-      "type": "tweet",
-      "title": "Brave Mad Men",
-      "text": "<p>Let us prove to the world that good taste, good art, good writing can be good selling.</p>",
-      "date": "May 15, 1947",
       "author": "Bill Bernbach",
       "username": "@bb",
       "avatar": "/img/avatar-bernbach.jpg"
@@ -632,6 +632,47 @@
       "author": "David Ogilvy",
       "username": "@davidog",
       "avatar": "/img/avatar-ogilvy.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Creative Business",
+      "text": "<p>Before you can have a share of market, you must have a share of mind. Products are made in the factory, but brands are created in the mind.&nbsp;What helps people helps business.&nbsp;</p>",
+      "date": "Aug 26, 1962",
+      "author": "Leo Burnett",
+      "username": "@leoburnett",
+      "avatar": "/img/avatar-burnett.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Simplicity",
+      "text": "<p>Keep it simple. Let's do the obvious thing, the common thing, but let's do it uncommonly well.</p>",
+      "date": "Apr 04, 1957",
+      "author": "Leo Burnett",
+      "username": "@leoburnett",
+      "avatar": "/img/avatar-burnett.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Shaping Culture",
+      "text": "<p>Good advertising does not just circulate information. It penetrates the public mind with desires and belief.</p>",
+      "date": "May 08, 1962",
+      "author": "Leo Burnett",
+      "username": "@leoburnett",
+      "avatar": "/img/avatar-burnett.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "The Future of Agencies ",
+      "text": "<p>The work of an advertising agency is warmly and immediately human. It deals with human needs, wants, dreams and hopes. Its ‘product’ cannot be turned out on an assembly line.</p>",
+      "date": "May 29, 1965",
+      "author": "Leo Burnett",
+      "username": "@leoburnett",
+      "avatar": "/img/avatar-burnett.jpg"
+    },
+    {
+      "type": "visual",
+      "title": "A Culture of Elevation",
+      "image": "/img/culture-elevation.svg"
     }
   ]
 }
