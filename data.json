@@ -22,6 +22,11 @@
     },
     {
       "type": "visual",
+      "title": "The Beauty of Freedom",
+      "image": "/img/butterfly.svg"
+    },
+    {
+      "type": "visual",
       "title": "Strategy",
       "image": "/img/strategy.svg"
     },
@@ -46,8 +51,63 @@
     },
     {
       "type": "visual",
-      "title": "The Butterfly Effect",
-      "image": "/img/butterfly.svg"
+      "title": "The Rebel",
+      "image": "/img/rebel.png"
+    },
+    {
+      "type": "visual",
+      "title": "The Innocent",
+      "image": "/img/innocent.png"
+    },
+    {
+      "type": "visual",
+      "title": "The Jester",
+      "image": "/img/jester.png"
+    },
+    {
+      "type": "visual",
+      "title": "The Lover",
+      "image": "/img/lover.png"
+    },
+    {
+      "type": "visual",
+      "title": "The Ordinary",
+      "image": "/img/ordinary.png"
+    },
+    {
+      "type": "visual",
+      "title": "The Ruler",
+      "image": "/img/ruler.png"
+    },
+    {
+      "type": "visual",
+      "title": "The Sage",
+      "image": "/img/sage.png"
+    },
+    {
+      "type": "visual",
+      "title": "The Hero",
+      "image": "/img/hero.png"
+    },
+    {
+      "type": "visual",
+      "title": "The Magician",
+      "image": "/img/magician.png"
+    },
+    {
+      "type": "visual",
+      "title": "The Caregiver",
+      "image": "/img/caregiver.png"
+    },
+    {
+      "type": "visual",
+      "title": "The Creator",
+      "image": "/img/creator.png"
+    },
+    {
+      "type": "visual",
+      "title": "The Explorer",
+      "image": "/img/explorer.png"
     },
     {
       "type": "visual",
@@ -56,17 +116,7 @@
     },
     {
       "type": "visual",
-      "title": "The Rebel",
-      "image": "/img/fishes-w.svg"
-    },
-    {
-      "type": "visual",
-      "title": "The Hero",
-      "image": "/img/hero.svg"
-    },
-    {
-      "type": "visual",
-      "title": "The Beauty of Freedom",
+      "title": "The Butterfly Effect",
       "image": "/img/butterfly.svg"
     },
     {
@@ -381,18 +431,18 @@
     },
     {
       "type": "tweet",
-      "title": "Good Design",
-      "text": "<p>Good design is innovative. Good design must be useful. Good design is aesthetic design. Good design makes a product understandable. Good design is honest. Good design is unobtrusive. Good design is durable. Good design is coherent down to the last detail. Good design is environmentally friendly. And last but not least, good design is as little design as possible.</p>",
-      "date": "May 26, 1978",
+      "title": "Form Follows Function",
+      "text": "<p>Design should not dominate things, should not dominate people. It should help people. That is its role.</p>",
+      "date": "Sep 09, 1958",
       "author": "Dieter Rams",
       "username": "@dieteradio",
       "avatar": "/img/avatar-dieter.jpg"
     },
     {
       "type": "tweet",
-      "title": "Form Follows Function",
-      "text": "<p>Design should not dominate things, should not dominate people. It should help people. That is its role.</p>",
-      "date": "Sep 09, 1958",
+      "title": "Good Design",
+      "text": "<p>Good design is innovative. Good design must be useful. Good design is aesthetic design. Good design makes a product understandable. Good design is honest. Good design is unobtrusive. Good design is durable. Good design is coherent down to the last detail. Good design is environmentally friendly. And last but not least, good design is as little design as possible.</p>",
+      "date": "May 26, 1978",
       "author": "Dieter Rams",
       "username": "@dieteradio",
       "avatar": "/img/avatar-dieter.jpg"
@@ -517,7 +567,7 @@
     },
     {
       "type": "tweet",
-      "title": "Populism",
+      "title": "Inequality",
       "text": "<p>Ignorance, allied with power, is the most ferocious enemy justice can have.</p>",
       "date": "May 06, 1972",
       "author": "James Baldwin",
@@ -572,7 +622,7 @@
     },
     {
       "type": "tweet",
-      "title": "Patriotism",
+      "title": "Black Sheep",
       "text": "<p>I love America more than any other country in the world and, exactly for this reason, I insist on the right to criticize her perpetually.</p>",
       "date": "May 24, 1985",
       "author": "James Baldwin",
@@ -626,7 +676,7 @@
     },
     {
       "type": "tweet",
-      "title": "Enchant",
+      "title": "Copywriting",
       "text": "<p>Avoid superlatives, generalizations, and platitudes. Be specific and factual. Be enthusiastic, friendly, and memorable. Don't be a bore. Tell the truth, but make the truth fascinating.</p>",
       "date": "Sep 27, 1982",
       "author": "David Ogilvy",
@@ -704,7 +754,7 @@
     },
     {
       "type": "tweet",
-      "title": "Wealth",
+      "title": "Passion",
       "text": "<p>Working hard and doing doing great work is as imperative as breathing. Creating great work warms the heart and enriches the soul. Those of us lucky enough to spend our days doing something we love, something we're good at, are rich.</p>",
       "date": "May 12, 1998",
       "author": "George Lois",
@@ -844,6 +894,159 @@
       "type": "visual",
       "title": "Burocracy",
       "image": "/img/maze.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Progress Doesn’t Equal Prosperity",
+      "image": "/img/two-directions.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Populism",
+      "image": "/img/populism.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Slavery",
+      "image": "/img/bell.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Vanity",
+      "image": "/img/vanity.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Ego",
+      "image": "/img/ego.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Reality",
+      "image": "/img/reality.svg"
+    },
+    {
+      "type": "visual",
+      "title": "History",
+      "image": "/img/history.svg"
+    },
+    {
+      "type": "visual",
+      "title": "The Reformation",
+      "image": "/img/reform.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Capitalism",
+      "image": "/img/calendar.svg"
+    },
+    {
+      "type": "tweet",
+      "title": "Think for Yourself",
+      "text": "<p>Whenever you find yourself on the side of the majority, it is time to reform (or pause and reflect).</p>",
+      "date": "Jun 04, 1899",
+      "author": "Mark Twain",
+      "username": "@twain",
+      "avatar": "/img/avatar-twain.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Patriotism",
+      "text": "<p>Loyalty to country ALWAYS. Loyalty to government, when it deserves it.</p>",
+      "date": "Mar 27, 1905",
+      "author": "Mark Twain",
+      "username": "@twain",
+      "avatar": "/img/avatar-twain.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Racism",
+      "text": "<p>There are many humorous things in the world; among them, the white man's notion that he is less savage than the other savages.</p>",
+      "date": "Apr 12, 1897",
+      "author": "Mark Twain",
+      "username": "@twain",
+      "avatar": "/img/avatar-twain.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Loving Your Enemies",
+      "text": "<p>Darkness cannot drive out darkness, only light can do that. Hate cannot drive out hate, only love can do that.</p>",
+      "date": "Nov 17, 1957",
+      "author": "Martin Luther King, Jr.",
+      "username": "@mlk",
+      "avatar": "/img/avatar-mlk.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Fraternity",
+      "text": "<p>I have a dream that one day this nation will rise up and live out the true meaning of its creed: We hold these truths to be self-evident, that all men are created equal.</p>",
+      "date": "Aug 28, 1963",
+      "author": "Martin Luther King, Jr.",
+      "username": "@mlk",
+      "avatar": "/img/avatar-mlk.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Serve & Service",
+      "text": "<p>Everybody can be great... because anybody can serve. You don't have to have a college degree to serve. You don't have to make your subject and verb agree to serve. You only need a heart full of grace. A soul generated by love.</p>",
+      "date": "Feb 04, 1968",
+      "author": "Martin Luther King, Jr.",
+      "username": "@mlk",
+      "avatar": "/img/avatar-mlk.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "The Ultimate Freedom",
+      "text": "<p>The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion.</p>",
+      "date": "Sep 28, 1959",
+      "author": "Albert Camus",
+      "username": "@camus",
+      "avatar": "/img/avatar-camus.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Responsible Absurdism",
+      "text": "<p>The purpose of a writer is to keep civilization from destroying itself.</p>",
+      "date": "May 12, 1948",
+      "author": "Albert Camus",
+      "username": "@camus",
+      "avatar": "/img/avatar-camus.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Builder",
+      "text": "<p>Well done is better than well said.</p>",
+      "date": "Feb 23, 1737",
+      "author": "Benjamin Franklin",
+      "username": "@bjfranklin",
+      "avatar": "/img/avatar-franklin.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Lifestyle",
+      "text": "<p>Early to bed, and early to rise, makes a man healthy, wealthy, and wise.</p>",
+      "date": "Jun 06, 1732",
+      "author": "Benjamin Franklin",
+      "username": "@bjfranklin",
+      "avatar": "/img/avatar-franklin.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Wealth",
+      "text": "<p>What more valuable than Gold? Diamonds. Than Diamonds? Virtue.</p>",
+      "date": "Jan 28, 1751",
+      "author": "Benjamin Franklin",
+      "username": "@bjfranklin",
+      "avatar": "/img/avatar-franklin.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Education",
+      "text": "<p>Educate your children to self-control, to the habit of holding passion and prejudice and evil tendencies subject to an upright and reasoning will, and you have done much to abolish misery from their future and crimes from society.</p>",
+      "date": "Oct 16, 1778",
+      "author": "Benjamin Franklin",
+      "username": "@bjfranklin",
+      "avatar": "/img/avatar-franklin.jpg"
     }
   ]
 }
