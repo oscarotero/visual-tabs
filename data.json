@@ -525,8 +525,8 @@
     },
     {
       "type": "tweet",
-      "title": "Hope › Hate",
-      "text": "<p>When they go low, we go high.</p>",
+      "title": "In Search of Excellence",
+      "text": "<p>How we explain that when someone is cruel or acts like a bully you don’t stoop to their level. No, our moto is: when they go low, we go high.</p>",
       "date": "Jul 26, 2016",
       "author": "Michelle Obama",
       "username": "@MichelleObama",
@@ -1049,8 +1049,90 @@
       "avatar": "/img/avatar-franklin.jpg"
     },
     {
+      "type": "tweet",
+      "title": "The Way to Fulfillment",
+      "text": "<p>Three passions, simple but overwhelmingly strong have governed my life: the longing for love, the search for knowledge, and unbearable pity for the suffering of mankind.</p>",
+      "date": "Jul 25, 1956",
+      "author": "Bertrand Russell",
+      "username": "@russell",
+      "avatar": "/img/avatar-russell.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Light › Darkness",
+      "text": "<p>Fear is the main source of superstition, and one of the main sources of cruelty. To conquer fear is the beginning of wisdom.</p>",
+      "date": "Oct 12, 1949",
+      "author": "Bertrand Russell",
+      "username": "@russell",
+      "avatar": "/img/avatar-russell.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Humans are rationalizing beings",
+      "text": "<p>It has been said that man is a rational animal. All my life I have been searching for evidence which could support this.</p>",
+      "date": "Dec 07, 1939",
+      "author": "Bertrand Russell",
+      "username": "@russell",
+      "avatar": "/img/avatar-russell.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Elegance",
+      "text": "<p>My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style.</p>",
+      "date": "Feb 15, 1987",
+      "author": "Maya Angelou",
+      "username": "@maya",
+      "avatar": "/img/avatar-maya.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Real Growth",
+      "text": "<p>Most people don't grow up. Most people age. They find parking spaces, honor their credit cards, get married, have children, and call that maturity. What that is, is aging.</p>",
+      "date": "Jan 28, 1996",
+      "author": "Maya Angelou",
+      "username": "@maya",
+      "avatar": "/img/avatar-maya.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Mental Virus",
+      "text": "<p>There is nothing so pitiful as a young cynic because he has gone from knowing nothing to believing nothing.</p>",
+      "date": "Apr 03, 1975",
+      "author": "Maya Angelou",
+      "username": "@maya",
+      "avatar": "/img/avatar-maya.jpg"
+    },
+    {
       "type": "visual",
-      "image": ""
+      "title": "Hope › Hate",
+      "image": "/img/sunrise-w.svg"
+    },
+    {
+      "type": "tweet",
+      "title": "Demagoguery",
+      "text": "<p>Values are faithfully applied to the facts before us, while ideology overrides whatever facts call theory into question.</p>",
+      "date": "Jul 18, 2006",
+      "author": "Barack Obama",
+      "username": "@BarackObama",
+      "avatar": "/img/avatar-barack.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Poverty",
+      "text": "<p>Focusing your life solely on making a buck shows a certain poverty of ambition. It asks too little of yourself. Because it's only when you hitch your wagon to something larger than yourself that you realize your true potential.</p>",
+      "date": "Jun 16, 2006",
+      "author": "Barack Obama",
+      "username": "@BarackObama",
+      "avatar": "/img/avatar-barack.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Unity",
+      "text": "<p>There is not a liberal America and a conservative America - there is the United States of America. There is not a black America and a white America and latino America and asian America - there's the United States of America.</p>",
+      "date": "Jul 27, 2004",
+      "author": "Barack Obama",
+      "username": "@BarackObama",
+      "avatar": "/img/avatar-barack.jpg"
     }
   ]
 }
