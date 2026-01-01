@@ -13,7 +13,7 @@
     {
       "type": "visual",
       "title": "Values",
-      "image": "/img/circles-values.svg"
+      "image": "/img/values.svg"
     },
     {
       "type": "visual",
@@ -1047,6 +1047,10 @@
       "author": "Benjamin Franklin",
       "username": "@bjfranklin",
       "avatar": "/img/avatar-franklin.jpg"
+    },
+    {
+      "type": "visual",
+      "image": ""
     }
   ]
 }
