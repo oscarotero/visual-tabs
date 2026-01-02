@@ -1,10 +1,10 @@
 <article>
   <div class="content">
-    <img class="slide" src="{{ image }}" alt="{{ title |> escape }}">
+    <img class="slide" src="{{ image |> fullUrl }}" alt="{{ title |> escape }}">
   </div>
   <footer class="footer">
     <div class="footer-logo">
-      <img src="img/sapiare-logo.svg" alt="Sapiare Logo">
+      <img src="{{ 'img/sapiare-logo.svg' |> fullUrl }}" alt="Sapiare Logo">
     </div>
     <h1 class="footer-title">{{ title }}</h1>
   </footer>
