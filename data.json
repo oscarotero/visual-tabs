@@ -1163,6 +1163,15 @@
       "type": "visual",
       "title": "Prosperity",
       "image": "/img/prosperity.svg"
+    },
+    {
+      "type": "art",
+      "title": "Nighthawks",
+      "author": "Edward Hopper",
+      "year": "1942",
+      "url": "https://historia-arte.com/obras/noctambulos-de-hopper",
+      "source": "HA!",
+      "image": "/img/art-nighthawks-hopper-1942.jpg"
     }
   ]
 }
