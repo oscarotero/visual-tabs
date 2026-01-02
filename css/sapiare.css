@@ -172,7 +172,7 @@ body {
   width: 100vw;
   height: 100vh;
   height: 100dvh;
-  background: #000;
+  background: rgba(10, 10, 10, 1);
   color: #f5f5f5;
 }
 main {
@@ -197,6 +197,10 @@ article {
   z-index: 1;
 }
 
+/* * * 
+Template Content 1 // Visual Thinking
+* * */
+
 .content img.slide {
   width: 260px;
   animation: fadeIn 1.2s ease-in-out;
@@ -207,40 +211,11 @@ article {
     width: 320px;
   }
 }
-.content:after {
-  content: "";
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  height: 9rem;
-  background: linear-gradient(to top, #000, #0000);
-}
-
-  .statement {
-    margin: 0 auto;
-    width: 80%;
-  }
-
-@media (min-width: 800px) {
-  .statement {
-    width: 50%;
-  }
-}
-
-.statement h2 {
-  font: 300 2rem/2.6rem Inter, helvetica, arial, sans-serif;
-  width: 80%;
-
-}
-
-.statement p {
-  font: 300 1rem/1.5rem Inter, helvetica, arial, sans-serif;
-  color: #8b98a5;
-}
 
 
-/* Tweet Quote */
+/* * * 
+Template Content 2 // Tweet Quote
+* * */
 
 .tweet-card {
   background-color: #050505;
@@ -248,7 +223,7 @@ article {
   padding: 24px;
   max-width: 300px;
   width: 100%;
-  border: 1px solid #151515;
+  border: 1px solid rgba(255, 255, 255, 0.06);
   animation: fadeIn 1.2s ease-in-out;
   font-family: Inter, helvetica, arial, sans-serif;
 }
@@ -340,7 +315,153 @@ article {
 }
 
 
-/* Footer 1 */
+/* * * 
+Template Content 3 // Card with bg image
+* * */
+
+.slide-card {
+  margin: 0 auto;
+  position: relative;
+  border-radius: 16px;
+  overflow: hidden;
+  display: flex;
+  align-items: stretch;
+  width: calc(100vw - 60px);
+  max-width: 1600px;
+  height: calc(100vh - 60px);
+  background-color: #222;
+  animation: fadeIn 1.2s ease-in-out;
+}
+.bgcover {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  z-index: 0;
+  pointer-events: none;
+}
+/* accesibility dark cinematic gradient */
+.slide-card .overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    0deg,
+    rgba(0,0,0,0.75) 0%,
+    rgba(0,0,0,0.55) 35%,
+    rgba(0,0,0,0.25) 55%,
+    rgba(0,0,0,0.1) 100%
+  );
+  z-index: 1;
+}
+
+.slide-content {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 30px;
+}
+
+/* left text block */
+.slide-card .text {
+  max-width: 420px;
+  display: flex;
+  flex-direction: column;
+  /* gap: 12px; */
+}
+
+.slide-card h1 {
+  font-size: 2.2rem;
+  font-family: Inter, helvetica, arial, sans-serif;
+  font-weight: 500;
+  margin: 0 0 12px;
+}
+
+.slide-card p {
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #cda55f;
+  margin: 0 0 24px;
+}
+.slide-card p span {
+  margin-left: 24px;
+}
+
+/* right CTA */
+.slide-card .cta {
+  display: flex;
+  align-items: center;
+  animation: fadeInUp 1.4s ease-in-out;
+}
+
+.slide-card .button {
+  padding: 12px 24px;
+  border-radius: 999px;
+  border: none;
+  background: rgba(255,255,255,0.15);
+  backdrop-filter: blur(6px);
+  font-size: 0.95rem;
+  font-family: Inter, helvetica, arial, sans-serif;
+  color: #fff;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.slide-card .button:hover {
+  background: rgba(255,255,255,0.25);
+}
+
+.button svg {
+  vertical-align: middle;
+  margin:  0 4px;
+}
+
+.cta a svg {
+  position: relative;
+  padding: 12px;
+  border-radius: 50%;
+  color: #fff;
+  background: rgba(255,255,255,0.1);
+  backdrop-filter: blur(6px);
+}
+
+a svg:hover {
+  position: relative;
+  background: rgba(255,255,255,0.2);
+}
+.cta a:active {
+  position: relative;
+  top:2px;
+}
+
+@media (max-width: 768px) {
+  .slide-card {
+    width: 94vw;
+    height: 94vh;
+  }
+
+  .slide-content {
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    gap: 1.5rem;
+  }
+
+  .slide-card .cta {
+    align-self: flex-start;
+  }
+}
+
+
+/* * * Footer 1 * * */
+
 .footer {
   grid-row: 2;
   justify-self: center;
@@ -349,9 +470,8 @@ article {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: rgba(0, 0, 0, 0.5);
   border-radius: 50px;
-  border: 1px solid rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.06);
   width: max-content;
   max-height: 80px;
   animation: fadeInUp 1.4s ease-in-out;
@@ -383,7 +503,7 @@ article {
   letter-spacing: 0.1rem;
   text-transform: uppercase;
   text-align: center;
-  color: #d4a574;
+  color: #cda55f;
   font-family: Quantico, monospace;
 }
 
@@ -394,7 +514,8 @@ article {
   }
 }
 
-/* Footer 2 */
+/* * * Footer 2 * * */
+
 .footer-mini {
   color: #fff;
   position: absolute;
