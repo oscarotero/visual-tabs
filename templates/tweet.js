@@ -1,4 +1,4 @@
-export default function ({ author, username, date, text, avatar, fullUrl }) {
+export default function ({ author, username, date, text, title, avatar, fullUrl }) {
   return (`
 <div class="content">
   <div class="tweet-card">
@@ -19,5 +19,11 @@ export default function ({ author, username, date, text, avatar, fullUrl }) {
     </div>
   </div>
 </div>
+<footer class="footer">
+  <div class="footer-logo">
+    <img src="${fullUrl("/img/sapiare-logo.svg")}" alt="Sapiare Logo">
+  </div>
+  <h1 class="footer-title">${title}</h1>
+</footer>
   `);
 }
