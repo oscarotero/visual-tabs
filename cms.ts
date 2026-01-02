@@ -28,7 +28,7 @@ cms.document({
           fields: [
             "title: text",
             "text: rich-text",
-            "url: text",
+            "url: url",
             "date: text",
             "author: text",
             "username: text",
@@ -43,6 +43,20 @@ cms.document({
           name: "visual",
           fields: [
             "title: text",
+            {
+              type: "file",
+              name: "image",
+            },
+          ],
+        },
+        {
+          type: "object",
+          name: "art",
+          fields: [
+            "title: text",
+            "author: text",
+            "year: text",
+            "url: url",
             {
               type: "file",
               name: "image",

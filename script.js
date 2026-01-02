@@ -7,7 +7,7 @@ const env = vento({
 const { slides } = await (await fetch("./data.json")).json();
 const index = Math.floor(Math.random() * slides.length);
 const slide = slides[index];
-const template = slide.type === "tweet" ? "tweet.vto" : "visual.vto";
+const template = `${slide.type}.vto`;
 
 const result = await env.run(template, slide);
 document.getElementById("main").innerHTML = result.content;
