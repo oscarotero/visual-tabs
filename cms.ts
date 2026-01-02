@@ -57,6 +57,7 @@ cms.document({
             "author: text",
             "year: text",
             "url: url",
+            "source: text",
             {
               type: "file",
               name: "image",
