@@ -291,6 +291,15 @@
       "avatar": "/img/avatar-joe.jpg"
     },
     {
+      "type": "art",
+      "title": "Nighthawks",
+      "author": "Edward Hopper",
+      "year": "1942",
+      "url": "https://historia-arte.com/obras/noctambulos-de-hopper",
+      "source": "HA!",
+      "image": "/img/art-nighthawks-hopper-1942.jpg"
+    },
+    {
       "type": "tweet",
       "title": "Commerce is a Civilizing Force",
       "text": "<p>Early to bed, early to rise, work like hell and advertise.</p>",
@@ -807,6 +816,15 @@
       "avatar": "/img/avatar-draper.jpg"
     },
     {
+      "type": "art",
+      "title": "The Parable of the Rich Fool",
+      "author": "Rembrandt van Rijn",
+      "year": "1627",
+      "url": "https://historia-arte.com/obras/la-parabola-del-rico-tonto",
+      "source": "HA!",
+      "image": "/img/art-bucintoro-venecia-canaletto-1729.webp"
+    },
+    {
       "type": "tweet",
       "title": "Framing",
       "text": "<p>If you don't like what's being said, change the conversation.</p>",
@@ -866,15 +884,6 @@
       "avatar": "/img/avatar-hegarty.jpg"
     },
     {
-      "type": "art",
-      "title": "Nighthawks",
-      "author": "Edward Hopper",
-      "year": "1942",
-      "url": "https://historia-arte.com/obras/noctambulos-de-hopper",
-      "source": "HA!",
-      "image": "/img/art-nighthawks-hopper-1942.jpg"
-    },
-    {
       "type": "tweet",
       "title": "Real Power",
       "text": "<p>Creativity can change the way we feel about something and will stay with us for eternity.</p>",
@@ -882,6 +891,15 @@
       "author": "John Hegarty",
       "username": "@hegarty",
       "avatar": "/img/avatar-hegarty.jpg"
+    },
+    {
+      "type": "art",
+      "title": "The Bucentaur Returns to the Pier at the Doge's Palace",
+      "author": "Canaletto",
+      "year": "1729",
+      "url": "https://historia-arte.com/obras/el-bucintoro",
+      "source": "HA!",
+      "image": "/img/art-bucintoro-venecia-canaletto-1729.webp"
     },
     {
       "type": "visual",
@@ -1184,21 +1202,30 @@
     },
     {
       "type": "art",
-      "title": "The Bucentaur Returns to the Pier at the Doge's Palace",
-      "author": "Canaletto",
-      "year": "1729",
-      "url": "https://historia-arte.com/obras/el-bucintoro",
+      "title": "The Course of Empire I: The Savage State",
+      "author": "Thomas Cole",
+      "year": "1834",
+      "url": "https://historia-arte.com/obras/el-curso-del-imperio-i-estado-salvaje",
       "source": "HA!",
-      "image": "/img/art-bucintoro-venecia-canaletto-1729.webp"
+      "image": "/img/art-empire-savage-state-cole-1834.webp"
     },
     {
       "type": "art",
-      "title": "The Parable of the Rich Fool",
-      "author": "Rembrandt van Rijn",
-      "year": "1627",
-      "url": "https://historia-arte.com/obras/la-parabola-del-rico-tonto",
+      "title": "The Course of Empire II: The Arcadian or Pastoral State",
+      "author": "Thomas Cole",
+      "year": "1834",
+      "url": "https://historia-arte.com/obras/el-curso-del-imperio-ii-estado-pastoril",
       "source": "HA!",
-      "image": "/img/art-bucintoro-venecia-canaletto-1729.webp"
+      "image": "/img/art-empire-pastoral-state-cole-1834.webp"
+    },
+    {
+      "type": "art",
+      "title": "The Course of Empire III: The Consummation of Empire",
+      "author": "Thomas Cole",
+      "year": "1836",
+      "url": "https://historia-arte.com/obras/el-curso-del-imperio-iii-la-consumacion-del-imperio",
+      "source": "HA!",
+      "image": "/img/art-consumation-empire-cole-1836.webp"
     }
   ]
 }
