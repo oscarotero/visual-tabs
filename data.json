@@ -41,13 +41,14 @@
       "image": "/img/network.svg"
     },
     {
-      "type": "tweet",
-      "title": "The Art of Debate",
-      "text": "<p>Great minds discuss ideas. Average minds discuss events. Small minds discuss people.</p>",
-      "date": "Mar 17, 1932",
-      "author": "Eleanor Roosevelt",
-      "username": "@eleanor",
-      "avatar": "/img/avatar-eleanor.webp"
+      "type": "visual",
+      "title": "The Butterfly Effect",
+      "image": "/img/butterfly.svg"
+    },
+    {
+      "type": "visual",
+      "title": "\"This is water\"",
+      "image": "/img/fishes-w.svg"
     },
     {
       "type": "visual",
@@ -111,18 +112,22 @@
     },
     {
       "type": "visual",
-      "title": "\"This is water\"",
-      "image": "/img/fishes-w.svg"
-    },
-    {
-      "type": "visual",
-      "title": "The Butterfly Effect",
-      "image": "/img/butterfly.svg"
-    },
-    {
-      "type": "visual",
       "title": "The Time Machine",
       "image": "/img/flux-capacitator.svg"
+    },
+    {
+      "type": "tweet",
+      "title": "The Art of Debate",
+      "text": "<p>Great minds discuss ideas. Average minds discuss events. Small minds discuss people.</p>",
+      "date": "Mar 17, 1932",
+      "author": "Eleanor Roosevelt",
+      "username": "@eleanor",
+      "avatar": "/img/avatar-eleanor.webp"
+    },
+    {
+      "type": "visual",
+      "title": "The Art Of Business",
+      "image": "/img/olivetti-egg.svg"
     },
     {
       "type": "tweet",
@@ -132,11 +137,6 @@
       "author": "Steve Jobs",
       "username": "@sj",
       "avatar": "/img/avatar-jobs.jpg"
-    },
-    {
-      "type": "visual",
-      "title": "The Art Of Business",
-      "image": "/img/olivetti-egg.svg"
     },
     {
       "type": "visual",
@@ -368,7 +368,7 @@
     },
     {
       "type": "tweet",
-      "title": "Prosperity vs. Progress",
+      "title": "Matterialism",
       "text": "<p>Progress is not only material growth, but civil and spiritual elevation.</p>",
       "date": "Oct 15, 1952",
       "author": "Adriano Olivetti",
@@ -525,7 +525,7 @@
     },
     {
       "type": "tweet",
-      "title": "In Search of Excellence",
+      "title": "Lead by Example",
       "text": "<p>How we explain that when someone is cruel or acts like a bully you don’t stoop to their level. No, our moto is: when they go low, we go high.</p>",
       "date": "Jul 26, 2016",
       "author": "Michelle Obama",
@@ -1133,6 +1133,36 @@
       "author": "Barack Obama",
       "username": "@BarackObama",
       "avatar": "/img/avatar-barack.jpg"
+    },
+    {
+      "type": "visual",
+      "title": "Opression",
+      "image": "/img/opression.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Exclusion",
+      "image": "/img/exclusion.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Inclusion",
+      "image": "/img/inclusion.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Excellence",
+      "image": "/img/excellence.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Ideology",
+      "image": "/img/ideology.svg"
+    },
+    {
+      "type": "visual",
+      "title": "Prosperity",
+      "image": "/img/prosperity.svg"
     }
   ]
 }
