@@ -16,3 +16,5 @@ const template = templates[slide.type];
 
 const result = template({ ...slide, fullUrl });
 document.getElementById("main").innerHTML = result;
+
+document.body.addEventListener("click", () => location.reload());
