@@ -748,11 +748,6 @@
     },
     {
       "type": "visual",
-      "title": "A Culture of Elevation",
-      "image": "/img/culture-elevation.svg"
-    },
-    {
-      "type": "visual",
       "title": "Team Alignment",
       "image": "/img/team.svg"
     },
