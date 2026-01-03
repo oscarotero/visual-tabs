@@ -5,7 +5,8 @@
   },
   "tasks": {
     "lume": "deno run -A --env-file cms.ts",
-    "dev": "deno task lume"
+    "dev": "deno task lume",
+    "build": "npx web-ext build --ignore-files='img/* *.ts' --overwrite-dest"
   },
   "lock": false,
   "lint": {
