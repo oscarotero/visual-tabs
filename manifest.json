@@ -6,6 +6,11 @@
   "chrome_url_overrides": {
     "newtab": "newtab.html"
   },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "sapiare@jlantunez.com"
+    }
+  },
   "permissions": [],
   "icons": {
     "16": "icon16.png",
