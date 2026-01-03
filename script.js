@@ -4,7 +4,7 @@ import visual from "./templates/visual.js";
 
 const templates = { art, tweet, visual };
 const baseUrl = new URL("https://cdn.jsdelivr.net/gh/oscarotero/visual-tabs/");
-const cacheDuration = 24 * 60 * 60 * 1000; // 1 day
+const cacheDuration = 5 * 60 * 1000; // 5 minutes
 
 function fullUrl(path) {
   return new URL("." + path, baseUrl).href;
