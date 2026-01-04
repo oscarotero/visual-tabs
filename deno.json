@@ -1,7 +1,7 @@
 {
   "imports": {
     "@std/cli": "jsr:@std/cli@1.0.25",
-    "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@0.14.4/"
+    "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@0.14.5/"
   },
   "tasks": {
     "lume": "deno run -A --env-file cms.ts",
