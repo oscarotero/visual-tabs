@@ -202,6 +202,15 @@
       "avatar": "/img/avatar-jobs.jpg"
     },
     {
+      "type": "art",
+      "title": "Nighthawks",
+      "author": "Edward Hopper",
+      "year": "1942",
+      "url": "https://historia-arte.com/obras/noctambulos-de-hopper",
+      "source": "HA!",
+      "image": "/img/art-nighthawks-hopper-1942.jpg"
+    },
+    {
       "type": "visual",
       "title": "Complexity",
       "image": "/img/complexity.svg"
@@ -334,15 +343,6 @@
       "author": "Joe MacMillan",
       "username": "joeceo",
       "avatar": "/img/avatar-joe.jpg"
-    },
-    {
-      "type": "art",
-      "title": "Nighthawks",
-      "author": "Edward Hopper",
-      "year": "1942",
-      "url": "https://historia-arte.com/obras/noctambulos-de-hopper",
-      "source": "HA!",
-      "image": "/img/art-nighthawks-hopper-1942.jpg"
     },
     {
       "type": "tweet",
@@ -982,6 +982,15 @@
       "image": "/img/populism.svg"
     },
     {
+      "type": "art",
+      "title": "Expectations",
+      "author": "Lawrence Alma-Tadema",
+      "year": "1885",
+      "url": "https://historia-arte.com/obras/expectativas",
+      "source": "HA!",
+      "image": "/img/art-expectations-alma-tadema-1885.webp"
+    },
+    {
       "type": "visual",
       "title": "Slavery",
       "image": "/img/bell.svg"
@@ -1015,6 +1024,15 @@
       "type": "visual",
       "title": "Capitalism",
       "image": "/img/calendar.svg"
+    },
+    {
+      "type": "art",
+      "title": "Women of Amphissa",
+      "author": "Lawrence Alma-Tadema",
+      "year": "1887",
+      "url": "https://historia-arte.com/obras/las-mujeres-de-amfissa",
+      "source": "HA!",
+      "image": "/img/art-women-amphissa-alma-tadema-1887.webp"
     },
     {
       "type": "tweet",
@@ -1212,24 +1230,6 @@
     },
     {
       "type": "art",
-      "title": "Women of Amphissa",
-      "author": "Lawrence Alma-Tadema",
-      "year": "1887",
-      "url": "https://historia-arte.com/obras/las-mujeres-de-amfissa",
-      "source": "HA!",
-      "image": "/img/art-women-amphissa-alma-tadema-1887.webp"
-    },
-    {
-      "type": "art",
-      "title": "Expectations",
-      "author": "Lawrence Alma-Tadema",
-      "year": "1885",
-      "url": "https://historia-arte.com/obras/expectativas",
-      "source": "HA!",
-      "image": "/img/art-expectations-alma-tadema-1885.webp"
-    },
-    {
-      "type": "art",
       "title": "The Voyage of Life: Childhood",
       "author": "Thomas cole",
       "year": "1840",
@@ -1263,6 +1263,15 @@
       "url": "https://en.wikipedia.org/wiki/The_Voyage_of_Life",
       "source": "Wikipedia",
       "image": "/img/art-voyage-life-oldage-thomas-cole-1842.webp"
+    },
+    {
+      "type": "art",
+      "title": "Execution of Torrijos and his Companions on the Beach at Málaga",
+      "author": "Antonio Gisbert",
+      "year": "1888",
+      "url": "https://historia-arte.com/obras/fusilamiento-de-torrijos",
+      "source": "HA!",
+      "image": "/img/art-execution-torrijos-malaga-gisbert-1888.webp"
     },
     {
       "type": "visual",
