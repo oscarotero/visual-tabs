@@ -2,6 +2,11 @@
   "slides": [
     {
       "type": "visual",
+      "title": "Strategy",
+      "image": "/img/strategy.svg"
+    },
+    {
+      "type": "visual",
       "title": "Purpose",
       "image": "/img/purpose.svg"
     },
@@ -33,11 +38,6 @@
       "author": "Adriano Olivetti",
       "username": "@adriano",
       "avatar": "/img/avatar-adriano.jpg"
-    },
-    {
-      "type": "visual",
-      "title": "Strategy",
-      "image": "/img/strategy.svg"
     },
     {
       "type": "visual",
@@ -97,6 +97,15 @@
       "author": "Steve Jobs",
       "username": "@sj",
       "avatar": "/img/avatar-jobs.jpg"
+    },
+    {
+      "type": "art",
+      "title": "Appraising the Day's Work",
+      "author": "Anna Ancher",
+      "year": "1883",
+      "url": "https://historia-arte.com/obras/juzgando-un-dia-de-trabajo",
+      "source": "HA!",
+      "image": "/img/art-day-work-ancher-1883.webp"
     },
     {
       "type": "visual",
@@ -179,6 +188,15 @@
       "image": "/img/flux-capacitator.svg"
     },
     {
+      "type": "art",
+      "title": "In the Académie Julien in Paris",
+      "author": "Marie Bashkirtseff",
+      "year": "1881",
+      "url": "https://historia-arte.com/obras/en-la-academia-julian",
+      "source": "HA!",
+      "image": "/img/art-women-painting-school-bashkirtseff-1881 .webp"
+    },
+    {
       "type": "tweet",
       "title": "The Art of Debate",
       "text": "<p>Great minds discuss ideas. Average minds discuss events. Small minds discuss people.</p>",
@@ -221,6 +239,15 @@
       "image": "/img/productivity.svg"
     },
     {
+      "type": "art",
+      "title": "Science and Charity",
+      "author": "Pablo Picasso",
+      "year": "1897",
+      "url": "https://historia-arte.com/obras/ciencia-y-caridad",
+      "source": "HA!",
+      "image": "/img/art-science-soul-picasso-1897.webp"
+    },
+    {
       "type": "visual",
       "title": "Justice",
       "image": "/img/justice.svg"
@@ -254,6 +281,15 @@
       "type": "visual",
       "title": "Purpose To Align",
       "image": "/img/purpose-align.svg"
+    },
+    {
+      "type": "art",
+      "title": "The Two Majesties",
+      "author": "Jean-Léon Gerôme",
+      "year": "1883",
+      "url": "https://historia-arte.com/obras/las-dos-majestades",
+      "source": "HA!",
+      "image": "/img/art-lion-majesties-gerome-1883.webp"
     },
     {
       "type": "tweet",
@@ -301,6 +337,15 @@
       "type": "visual",
       "title": "Dignity",
       "image": "/img/un-logo.svg"
+    },
+    {
+      "type": "art",
+      "title": "Fishermen at Sea",
+      "author": "William Turner",
+      "year": "1796",
+      "url": "https://en.wikipedia.org/wiki/Fishermen_at_Sea",
+      "source": "Wikipedia",
+      "image": "/img/art-fishermen-sea-turner-1796.webp"
     },
     {
       "type": "visual",
@@ -355,6 +400,15 @@
       "avatar": "/img/avatar-ted-turner.jpeg"
     },
     {
+      "type": "art",
+      "title": "The Architect's Dream",
+      "author": "Thomas Cole",
+      "year": "1840",
+      "url": "https://en.wikipedia.org/wiki/The_Architect%27s_Dream#:~:text=The%20Architect's%20Dream%20is%20an,having%20dabbled%20in%20architecture%20previously.",
+      "source": "Wikipedia",
+      "image": "/img/art-architect-dream-cole-1840.webp"
+    },
+    {
       "type": "visual",
       "title": "Break The Conventions",
       "image": "/img/zhink.svg"
@@ -399,6 +453,15 @@
       "author": "Nora Ephron",
       "username": "@shopgirl",
       "avatar": "/img/avatar-nora.jpg"
+    },
+    {
+      "type": "art",
+      "title": "Woman before the Rising Sun",
+      "author": "Caspar David Friedrich",
+      "year": "1818",
+      "url": "https://www.youtube.com/watch?v=u8lN_ESfiK0",
+      "source": "YouTube",
+      "image": "/img/art-woman-before-rising-sun-friedrich-1818.webp"
     },
     {
       "type": "visual",
@@ -455,6 +518,15 @@
       "author": "Akio Morita",
       "username": "@akiosony",
       "avatar": "/img/avatar-akio.jpg"
+    },
+    {
+      "type": "art",
+      "title": "Guernica",
+      "author": "Pablo Picasso",
+      "year": "1937",
+      "url": "https://historia-arte.com/obras/guernica",
+      "source": "HA!",
+      "image": "/img/art-guernica-picasso-1937.webp"
     },
     {
       "type": "tweet",
@@ -520,6 +592,15 @@
       "avatar": "/img/avatar-erika.jpg"
     },
     {
+      "type": "art",
+      "title": "The Philosopher in Meditation",
+      "author": "Rembrandt van Rijn",
+      "year": "1632",
+      "url": "https://historia-arte.com/obras/filosofo-en-contemplacion",
+      "source": "HA!",
+      "image": "/img/art-philosopher-rembrandt-1632.webp"
+    },
+    {
       "type": "tweet",
       "title": "Creative Revolution",
       "text": "<p>Creativity is the most powerful force in business.&nbsp;It may well be the last unfair advantage we're legally allowed to take over our competitors.</p>",
@@ -563,6 +644,15 @@
       "avatar": "/img/avatar-arendt.jpg"
     },
     {
+      "type": "art",
+      "title": "Execution of Torrijos and his Companions on the Beach at Málaga",
+      "author": "Antonio Gisbert",
+      "year": "1888",
+      "url": "https://historia-arte.com/obras/fusilamiento-de-torrijos",
+      "source": "HA!",
+      "image": "/img/art-execution-torrijos-malaga-gisbert-1888.webp"
+    },
+    {
       "type": "visual",
       "title": "Loyalty",
       "image": "/img/loyalty.svg"
@@ -576,6 +666,15 @@
       "type": "visual",
       "title": "Legacy",
       "image": "/img/waterdrop.svg"
+    },
+    {
+      "type": "art",
+      "title": "Wanderer above the Sea of Fog",
+      "author": "Caspar David Friedrich",
+      "year": "1818",
+      "url": "https://historia-arte.com/obras/caminante-sobre-un-mar-de-nubes-de-friedrich",
+      "source": "HA!",
+      "image": "/img/art-wanderer-sea-clouds-friedrich-1818.webp"
     },
     {
       "type": "tweet",
@@ -641,6 +740,15 @@
       "type": "visual",
       "title": "\"Good Sees It\"",
       "image": "/img/eye.svg"
+    },
+    {
+      "type": "art",
+      "title": "George Washington's crossing of the Delaware River",
+      "author": "Emanuel Gottlieb Leutze",
+      "year": "1851",
+      "url": "https://en.wikipedia.org/wiki/George_Washington%27s_crossing_of_the_Delaware_River",
+      "source": "Wikipedia",
+      "image": "/img/art-washington-delaware-river-leutze-1851.webp"
     },
     {
       "type": "visual",
@@ -738,6 +846,15 @@
       "avatar": "/img/avatar-ogilvy.jpg"
     },
     {
+      "type": "art",
+      "title": "Automat",
+      "author": "Edward Hopper",
+      "year": "1927",
+      "url": "https://historia-arte.com/obras/automat",
+      "source": "HA!",
+      "image": "/img/art-automat-hopper-1927.webp"
+    },
+    {
       "type": "tweet",
       "title": "Copywriting",
       "text": "<p>Avoid superlatives, generalizations, and platitudes. Be specific and factual. Be enthusiastic, friendly, and memorable. Don't be a bore. Tell the truth, but make the truth fascinating.</p>",
@@ -754,6 +871,15 @@
       "author": "David Ogilvy",
       "username": "@davidog",
       "avatar": "/img/avatar-ogilvy.jpg"
+    },
+    {
+      "type": "art",
+      "title": "The Abbey in the Oakwood",
+      "author": "Caspar David Friedrich",
+      "year": "1809",
+      "url": "https://historia-arte.com/obras/abadia-en-un-bosque-una-promesa",
+      "source": "HA!",
+      "image": "/img/art-abbey-dakwood-friedrich-1809.webp"
     },
     {
       "type": "tweet",
@@ -879,6 +1005,15 @@
       "image": "/img/narrative-companies.svg"
     },
     {
+      "type": "art",
+      "title": "Ecce Homo",
+      "author": "Antonio Ciseri",
+      "year": "1871",
+      "url": "https://historia-arte.com/obras/ecce-homo-ciseri",
+      "source": "HA!",
+      "image": "/img/art-ecce-homo-ciseri-1871.webp"
+    },
+    {
       "type": "tweet",
       "title": "Individuality",
       "text": "<p>I’m watching this new lipstick commercial. I don’t think anyone wants to be one of a hundred colors in a box.</p>",
@@ -904,6 +1039,24 @@
       "author": "Peggy Olson",
       "username": "@peggyolson",
       "avatar": "/img/avatar-peggy.jpg"
+    },
+    {
+      "type": "art",
+      "title": "Sunset (Brothers)",
+      "author": "Caspar David Friedrich",
+      "year": "1830",
+      "url": "https://en.wikipedia.org/wiki/Sunset_(Friedrich)",
+      "source": "Wikipedia",
+      "image": "/img/art-sunset-brothers-friedrich-1830.webp"
+    },
+    {
+      "type": "art",
+      "title": " Woman in the bathtub",
+      "author": "Wayne Thiebaud",
+      "year": "1965",
+      "url": "https://historia-arte.com/obras/mujer-en-la-banera",
+      "source": "HA!",
+      "image": "/img/art-woman-bathub-thiebaud-1965.webp"
     },
     {
       "type": "tweet",
@@ -947,9 +1100,36 @@
       "image": "/img/point-focus.svg"
     },
     {
+      "type": "art",
+      "title": "Masked Ball at the Opera",
+      "author": "Edouard Manet",
+      "year": "1873",
+      "url": "https://historia-arte.com/obras/baile-de-mascaras-en-la-opera",
+      "source": "HA!",
+      "image": "/img/art-opera-manet-1873.webp"
+    },
+    {
+      "type": "art",
+      "title": "The Stages of Life",
+      "author": "Caspar David Friedrich",
+      "year": "1835",
+      "url": "https://en.wikipedia.org/wiki/The_Stages_of_Life",
+      "source": "Wikipedia",
+      "image": "/img/art-life-stages-friedrich-1835.webp"
+    },
+    {
       "type": "visual",
       "title": "Everything is a Remix",
       "image": "/img/remix.svg"
+    },
+    {
+      "type": "art",
+      "title": "The Persistence of Memory",
+      "author": "Salvador Dalí",
+      "year": "1931",
+      "url": "https://historia-arte.com/obras/la-persistencia-de-la-memoria",
+      "source": "HA!",
+      "image": "/img/art-memory-dali-1931.webp"
     },
     {
       "type": "visual",
@@ -1107,6 +1287,20 @@
       "avatar": "/img/avatar-camus.jpg"
     },
     {
+      "type": "art",
+      "title": "The Holy ​​Family with a Little Bird",
+      "author": "Bartolomé Esteban Murillo",
+      "year": "1650",
+      "url": "https://historia-arte.com/obras/sagrada-familia-pajarito",
+      "source": "HA!",
+      "image": "/img/art-family-murillo-1650.webp"
+    },
+    {
+      "type": "visual",
+      "title": "Prosperity",
+      "image": "/img/prosperity.svg"
+    },
+    {
       "type": "tweet",
       "title": "Builder",
       "text": "<p>Well done is better than well said.</p>",
@@ -1153,30 +1347,12 @@
     },
     {
       "type": "tweet",
-      "title": "Light › Darkness",
-      "text": "<p>Fear is the main source of superstition, and one of the main sources of cruelty. To conquer fear is the beginning of wisdom.</p>",
-      "date": "Oct 12, 1949",
-      "author": "Bertrand Russell",
-      "username": "@russell",
-      "avatar": "/img/avatar-russell.jpg"
-    },
-    {
-      "type": "tweet",
       "title": "Humans are rationalizing beings",
       "text": "<p>It has been said that man is a rational animal. All my life I have been searching for evidence which could support this.</p>",
       "date": "Dec 07, 1939",
       "author": "Bertrand Russell",
       "username": "@russell",
       "avatar": "/img/avatar-russell.jpg"
-    },
-    {
-      "type": "tweet",
-      "title": "Elegance",
-      "text": "<p>My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style.</p>",
-      "date": "Feb 15, 1987",
-      "author": "Maya Angelou",
-      "username": "@maya",
-      "avatar": "/img/avatar-maya.jpg"
     },
     {
       "type": "tweet",
@@ -1200,6 +1376,15 @@
       "type": "visual",
       "title": "Hope › Hate",
       "image": "/img/sunrise-w.svg"
+    },
+    {
+      "type": "tweet",
+      "title": "Elegance",
+      "text": "<p>My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style.</p>",
+      "date": "Feb 15, 1987",
+      "author": "Maya Angelou",
+      "username": "@maya",
+      "avatar": "/img/avatar-maya.jpg"
     },
     {
       "type": "tweet",
@@ -1265,15 +1450,6 @@
       "image": "/img/art-voyage-life-oldage-thomas-cole-1842.webp"
     },
     {
-      "type": "art",
-      "title": "Execution of Torrijos and his Companions on the Beach at Málaga",
-      "author": "Antonio Gisbert",
-      "year": "1888",
-      "url": "https://historia-arte.com/obras/fusilamiento-de-torrijos",
-      "source": "HA!",
-      "image": "/img/art-execution-torrijos-malaga-gisbert-1888.webp"
-    },
-    {
       "type": "visual",
       "title": "Opression",
       "image": "/img/opression.svg"
@@ -1299,9 +1475,13 @@
       "image": "/img/ideology.svg"
     },
     {
-      "type": "visual",
-      "title": "Prosperity",
-      "image": "/img/prosperity.svg"
+      "type": "tweet",
+      "title": "Light › Darkness",
+      "text": "<p>Fear is the main source of superstition, and one of the main sources of cruelty. To conquer fear is the beginning of wisdom.</p>",
+      "date": "Oct 12, 1949",
+      "author": "Bertrand Russell",
+      "username": "@russell",
+      "avatar": "/img/avatar-russell.jpg"
     }
   ]
 }
