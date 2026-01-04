@@ -472,17 +472,17 @@ Template Content 3 // Card with bg image
 }
 
 .slide-card h1 {
-  font-size: 2.2rem;
+  font-size: 1.6rem;
   font-family: Inter, helvetica, arial, sans-serif;
-  font-weight: 500;
-  margin: 0 0 12px;
+  font-weight: 400;
+  margin: 0 0 8px;
 }
 
 .slide-card p {
   font-size: 1rem;
   line-height: 1.5;
   color: #cda55f;
-  margin: 0 0 24px;
+  margin: 0;
 }
 .slide-card p span {
   margin-left: 24px;
