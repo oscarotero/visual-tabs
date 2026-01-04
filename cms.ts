@@ -3,7 +3,7 @@ import { parseArgs } from "@std/cli/parse-args";
 
 const cms = lumeCMS();
 
-cms.storage("src", ".");
+cms.storage("src", "content");
 
 const user = Deno.env.get("CMS_USER") ?? "admin";
 const pass = Deno.env.get("CMS_PASSWORD") ?? "";
