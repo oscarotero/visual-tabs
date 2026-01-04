@@ -27,7 +27,7 @@ You can edit the file to add more content or run `deno task dev` to open a CMS
 
 ![2-readme](https://github.com/user-attachments/assets/02f167d8-1363-437e-90ca-4440729a60f2)
 
-![3-readme](https://github.com/user-attachments/assets/e27fee91-0ddb-43d2-a1f9-f6a07bf6b03d)
+![3-readme2](https://github.com/user-attachments/assets/7f4e15f0-a0dd-4411-889e-46686dd2670f)
 
 
 ## Credits
