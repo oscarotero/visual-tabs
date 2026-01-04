@@ -3,7 +3,7 @@ import tweet from "./templates/tweet.js";
 import visual from "./templates/visual.js";
 
 const templates = { art, tweet, visual };
-const baseUrl = new URL("https://cdn.jsdelivr.net/gh/oscarotero/visual-tabs/content");
+const baseUrl = new URL("https://cdn.jsdelivr.net/gh/oscarotero/visual-tabs/content/");
 const cacheDuration = 5 * 60 * 1000; // 5 minutes
 
 function fullUrl(path) {
