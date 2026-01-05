@@ -6,7 +6,7 @@
   "tasks": {
     "lume": "deno run -A --env-file cms.ts",
     "dev": "deno task lume",
-    "build": "npx web-ext build --ignore-files='img/* *.ts data.json' --overwrite-dest"
+    "build": "cd extension && npx web-ext build --ignore-files='img/* *.ts data.json' --overwrite-dest"
   },
   "lock": false,
   "lint": {
