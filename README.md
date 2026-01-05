@@ -11,7 +11,7 @@ Anyone with the extension installed will automatically receive any new content y
 ## Install Sapiare New Tab
 
 - [Chromium based browsers](https://chromewebstore.google.com/detail/sapiare-new-tabs/cbopbiocoldcmakpfnfddhmbgcaalepo).
-- [Firefox](https://addons.mozilla.org/es-ES/firefox/addon/sapiare-new-tabs/)
+- [Firefox](https://addons.mozilla.org/es-ES/firefox/addon/sapiare-new-tab/)
 
 ## For developers
 
@@ -23,7 +23,7 @@ When uploading your extension to the Firefox Add-ons store as a ZIP file, make s
 You can edit the file to add more content or run `deno task dev` to open a CMS
 ([Deno](https://deno.com/) is required).
 
-![sapiare-new-tab-cover-16-9](https://github.com/user-attachments/assets/832eb745-2bdd-4946-8935-f7ef7ea1ceb5)
+![cover-sapiare-tab-promo-16-9](https://github.com/user-attachments/assets/a3efe95a-1428-412c-b0da-2e06344d1096)
 
 ![1sapiare](https://github.com/user-attachments/assets/4270fafc-bad8-40d6-b731-c112cc30f5a7)
 
