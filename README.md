@@ -23,6 +23,8 @@ When uploading your extension to the Firefox Add-ons store as a ZIP file, make s
 You can edit the file to add more content or run `deno task dev` to open a CMS
 ([Deno](https://deno.com/) is required).
 
+![sapiare-new-tab-cover-16-9](https://github.com/user-attachments/assets/832eb745-2bdd-4946-8935-f7ef7ea1ceb5)
+
 ![1sapiare](https://github.com/user-attachments/assets/4270fafc-bad8-40d6-b731-c112cc30f5a7)
 
 ![2sapiare](https://github.com/user-attachments/assets/9a1942f3-8e4f-4901-9eb4-b768639429b6)
