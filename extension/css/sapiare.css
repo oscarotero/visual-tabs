@@ -474,6 +474,7 @@ Template Content 3 // Card with bg image
 
 .slide-card h1 {
   font-size: 1.6rem;
+  line-height: 1.2;
   font-family: Inter, helvetica, arial, sans-serif;
   font-weight: 400;
   margin: 0 0 8px;
