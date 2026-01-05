@@ -1,12 +1,12 @@
 # Visual Tabs
 
-Create a custom **new-tab page** with your own content in Chrome, Firefox, or Brave.
+Create a custom new-tab page extension featuring your own content for Chrome, Firefox, or Brave.
 
 To showcase what’s possible, we’ve created **Sapiare New Tab**, which features evocative visual thinking, a curated selection of paintings, and tweet-style quotes from some of the greatest thinkers and builders in history. 
 
 It’s available in both the Chrome and Firefox extension stores.
 
-Whenever we add new content, it appears automatically. You only need to update the extension if we introduce new features or content formats. 
+Anyone with the extension installed will automatically receive any new content you publish. They would only need to update the extension if you add new functionality or new content templates. 
 
 ## Install Sapiare New Tab
 
@@ -23,11 +23,12 @@ When uploading your extension to the Firefox Add-ons store as a ZIP file, make s
 You can edit the file to add more content or run `deno task dev` to open a CMS
 ([Deno](https://deno.com/) is required).
 
-![1-readme](https://github.com/user-attachments/assets/2658fb39-ca0c-4e32-8927-3bfdaad5c3e4)
+![3sapiare](https://github.com/user-attachments/assets/528d2adf-7d87-422e-8a1e-2e04aac24d99)
 
-![2-readme](https://github.com/user-attachments/assets/02f167d8-1363-437e-90ca-4440729a60f2)
+![2sapiare](https://github.com/user-attachments/assets/9a1942f3-8e4f-4901-9eb4-b768639429b6)
 
-![3-readme2](https://github.com/user-attachments/assets/7f4e15f0-a0dd-4411-889e-46686dd2670f)
+![1sapiare](https://github.com/user-attachments/assets/4270fafc-bad8-40d6-b731-c112cc30f5a7)
+
 
 
 ## Credits
