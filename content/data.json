@@ -946,6 +946,15 @@
       "image": "/img/wisdom.svg"
     },
     {
+      "type": "art",
+      "title": "The False Mirror",
+      "author": "René Magritte",
+      "year": "1929",
+      "url": "https://historia-arte.com/obras/el-falso-espejo",
+      "source": "HA!",
+      "image": "/img/art-eye-false-mirror-magritte-1929.webp"
+    },
+    {
       "type": "tweet",
       "title": "Self-confidence",
       "text": "<p>Teamwork might work in building an Amish barn, but it can’t create a big idea… Everybody believes in co-creativity—not me. Be confident of your own, edgy, solo talent.</p>",
@@ -1500,15 +1509,6 @@
       "author": "Bertrand Russell",
       "username": "@russell",
       "avatar": "/img/avatar-russell.jpg"
-    },
-    {
-      "type": "art",
-      "title": "The False Mirror",
-      "author": "René Magritte",
-      "year": "1929",
-      "url": "https://historia-arte.com/obras/el-falso-espejo",
-      "source": "HA!",
-      "image": "/img/art-eye-false-mirror-magritte-1929.webp"
     }
   ]
 }
