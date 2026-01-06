@@ -1208,6 +1208,15 @@
       "image": "/img/vanity.svg"
     },
     {
+      "type": "art",
+      "title": "Stump Speaking",
+      "author": "George Caleb Bingham",
+      "year": "1854",
+      "url": "https://en.wikipedia.org/wiki/Stump_speech",
+      "source": "Wikipedia",
+      "image": "/img/art-stump-speaking-bingham-1856.webp"
+    },
+    {
       "type": "visual",
       "title": "Ego",
       "image": "/img/ego.svg"
