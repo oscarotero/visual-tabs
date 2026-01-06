@@ -18,20 +18,24 @@ Anyone with the extension installed will automatically receive any new content y
 The content is stored in the `data.json` file, and images are stored in the `img` folder. You can edit the file to add more content or run `deno task dev` to open a CMS
 ([Deno](https://deno.com/) is required). 
 
+
 To submit your extension to the browser stores, simply upload the extension folder.
 When creating a ZIP file, ensure that `manifest.json` is at the root by selecting all files and folders inside the extension directory, not the directory itself, and then zipping them.
+
 
 ## For non-developers 
 To add and edit content, we installed [Lume](https://lume.land/) , a static site generator for Deno, on a personal domain. This allows anyone, even without technical skills, to manage content easily. A developer can set it up in just a few minutes.
 
+
 ## Screenshots
-![cover-sapiare-tab-promo-16-9](https://github.com/user-attachments/assets/a3efe95a-1428-412c-b0da-2e06344d1096)
 
-![1sapiare](https://github.com/user-attachments/assets/4270fafc-bad8-40d6-b731-c112cc30f5a7)
+![2 - Cover Promo Chrome 16-9](https://github.com/user-attachments/assets/d4954734-53ba-4366-9625-1e343e1c8b67)
 
-![2sapiare](https://github.com/user-attachments/assets/9a1942f3-8e4f-4901-9eb4-b768639429b6)
+![1-visual-entry](https://github.com/user-attachments/assets/7688c42c-bbb4-4e17-922b-60727759706f)
 
-![3sapiare](https://github.com/user-attachments/assets/528d2adf-7d87-422e-8a1e-2e04aac24d99)
+![2 - tweet-entry](https://github.com/user-attachments/assets/f649f0e3-a27d-4dbf-bdde-141a41404573)
+
+![3 - art-entry](https://github.com/user-attachments/assets/60a8eeb2-bc14-4bdb-b006-48af378e6e37)
 
 
 ## Credits
