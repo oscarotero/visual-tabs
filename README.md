@@ -31,7 +31,7 @@ To add and edit content, we installed [Lume](https://lume.land/) , a static site
 
 ![2 - Cover Promo Chrome 16-9](https://github.com/user-attachments/assets/d4954734-53ba-4366-9625-1e343e1c8b67)
 
-![1-visual-entry](https://github.com/user-attachments/assets/7688c42c-bbb4-4e17-922b-60727759706f)
+![visual-entry](https://github.com/user-attachments/assets/f35da7dc-a2f2-4ccb-a29f-8b9b3e978189)
 
 ![2 - tweet-entry](https://github.com/user-attachments/assets/f649f0e3-a27d-4dbf-bdde-141a41404573)
 
