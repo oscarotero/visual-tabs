@@ -709,6 +709,15 @@
       "avatar": "/img/avatar-bernbach.jpg"
     },
     {
+      "type": "art",
+      "title": "The Creation of Adam",
+      "author": "Michelangelo",
+      "year": "1512",
+      "url": "https://en.wikipedia.org/wiki/The_Creation_of_Adam",
+      "source": "Wikipedia",
+      "image": "/img/art-creation-adam-michelangelo-1511.webp"
+    },
+    {
       "type": "visual",
       "title": "Build With Heart",
       "image": "/img/heart.svg"
@@ -790,6 +799,15 @@
       "author": "Hannah Arendt",
       "username": "@arendt",
       "avatar": "/img/avatar-arendt.jpg"
+    },
+    {
+      "type": "art",
+      "title": "The School of Athens",
+      "author": "Raphael",
+      "year": "1511",
+      "url": "https://en.wikipedia.org/wiki/The_School_of_Athens",
+      "source": "Wikipedia",
+      "image": "/img/art-athens-school-rafael-1511.webp"
     },
     {
       "type": "tweet",
@@ -1482,6 +1500,15 @@
       "author": "Bertrand Russell",
       "username": "@russell",
       "avatar": "/img/avatar-russell.jpg"
+    },
+    {
+      "type": "art",
+      "title": "The False Mirror",
+      "author": "René Magritte",
+      "year": "1929",
+      "url": "https://historia-arte.com/obras/el-falso-espejo",
+      "source": "HA!",
+      "image": "/img/art-eye-false-mirror-magritte-1929.webp"
     }
   ]
 }
