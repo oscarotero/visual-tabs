@@ -1288,12 +1288,12 @@
     },
     {
       "type": "art",
-      "title": "The Holy ​​Family with a Little Bird",
-      "author": "Bartolomé Esteban Murillo",
-      "year": "1650",
-      "url": "https://historia-arte.com/obras/sagrada-familia-pajarito",
-      "source": "HA!",
-      "image": "/img/art-family-murillo-1650.webp"
+      "title": "The Last Supper",
+      "author": "Leonardo Da Vinci",
+      "year": "1498",
+      "url": "https://en.wikipedia.org/wiki/The_Last_Supper_(Leonardo)",
+      "source": "Wikipedia",
+      "image": "/img/art-last-supper-vinci-1498.webp"
     },
     {
       "type": "visual",
