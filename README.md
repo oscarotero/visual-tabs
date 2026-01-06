@@ -15,14 +15,16 @@ Anyone with the extension installed will automatically receive any new content y
 
 ## For developers
 
-The content is stored in the `data.json` file, and images are stored in the `img` folder. To submit your extension to the browser stores, you only need to upload the **extension folder**. 
+The content is stored in the `data.json` file, and images are stored in the `img` folder. You can edit the file to add more content or run `deno task dev` to open a CMS
+([Deno](https://deno.com/) is required). 
 
-When uploading your extension to the Firefox Add-ons store as a ZIP file, make sure that `manifest.json` is located at the root of the archive. To do this, select all files and folders inside the **extension directory**, not the directory itself.
+To submit your extension to the browser stores, simply upload the extension folder.
+When creating a ZIP file, ensure that `manifest.json` is at the root by selecting all files and folders inside the extension directory, not the directory itself, and then zipping them.
 
-## How to add content
-You can edit the file to add more content or run `deno task dev` to open a CMS
-([Deno](https://deno.com/) is required).
+## For non-developers 
+To add and edit content, we installed [Lume](https://lume.land/) , a static site generator for Deno, on a personal domain. This allows anyone, even without technical skills, to manage content easily. A developer can set it up in just a few minutes.
 
+## Screenshots
 ![cover-sapiare-tab-promo-16-9](https://github.com/user-attachments/assets/a3efe95a-1428-412c-b0da-2e06344d1096)
 
 ![1sapiare](https://github.com/user-attachments/assets/4270fafc-bad8-40d6-b731-c112cc30f5a7)
