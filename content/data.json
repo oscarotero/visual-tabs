@@ -1184,6 +1184,15 @@
       "image": "/img/two-directions.svg"
     },
     {
+      "type": "tweet",
+      "title": "Craft",
+      "text": "<p>I want everything we do to be beautiful. I don’t give a damn whether the client understands that that’s worth anything, or that the client thinks it’s worth anything, or whether it is worth anything. It’s worth it to me. It’s the way I want to live my life. I want to make beautiful things, even if nobody cares.</p>",
+      "date": "May 16, 1977",
+      "author": "Saul Bass",
+      "username": "@saulbass",
+      "avatar": "/img/avatar-saul.webp"
+    },
+    {
       "type": "visual",
       "title": "Populism",
       "image": "/img/populism.svg"
@@ -1201,6 +1210,15 @@
       "type": "visual",
       "title": "Slavery",
       "image": "/img/bell.svg"
+    },
+    {
+      "type": "tweet",
+      "title": "The Job",
+      "text": "<p>Design is thinking made visual.</p>",
+      "date": "May 24, 1966",
+      "author": "Saul Bass",
+      "username": "@saulbass",
+      "avatar": "/img/avatar-saul.webp"
     },
     {
       "type": "visual",
