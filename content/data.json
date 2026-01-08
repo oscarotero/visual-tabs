@@ -325,6 +325,11 @@
       "image": "/img/braun-speaker.svg"
     },
     {
+      "type": "visual",
+      "title": "Made in Germany",
+      "image": "/img/speaker-dots-braun.svg"
+    },
+    {
       "type": "tweet",
       "title": "Legacy",
       "text": "<p>I want to build something that makes people fall in love.</p>",
