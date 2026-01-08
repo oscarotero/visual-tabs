@@ -29,13 +29,13 @@ To add and edit content, we installed [Lume](https://lume.land/) , a static site
 
 ## Screenshots
 
-![2 - Cover Promo Chrome 16-9](https://github.com/user-attachments/assets/d4954734-53ba-4366-9625-1e343e1c8b67)
+![cover-promo-16-9](https://github.com/user-attachments/assets/de353b6c-7de4-4dcf-af77-e996b5397ac8)
 
-![visual-entry](https://github.com/user-attachments/assets/f35da7dc-a2f2-4ccb-a29f-8b9b3e978189)
+![entry-visual](https://github.com/user-attachments/assets/60654030-1b5b-44af-8dd3-7181813cb037)
 
-![2 - tweet-entry](https://github.com/user-attachments/assets/f649f0e3-a27d-4dbf-bdde-141a41404573)
+![entry-tweet](https://github.com/user-attachments/assets/2af15c39-a78c-45da-be86-85f76f7eee37)
 
-![3 - art-entry](https://github.com/user-attachments/assets/60a8eeb2-bc14-4bdb-b006-48af378e6e37)
+![entry-art](https://github.com/user-attachments/assets/7d12f20b-0957-40a3-9667-2c00f3159576)
 
 
 ## Credits
