@@ -1096,6 +1096,11 @@
     },
     {
       "type": "visual",
+      "title": "Corruption",
+      "image": "/img/doughnut.svg"
+    },
+    {
+      "type": "visual",
       "title": "Companies That Matter",
       "image": "/img/narrative-companies.svg"
     },
