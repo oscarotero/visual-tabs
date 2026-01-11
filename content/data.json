@@ -368,6 +368,11 @@
     },
     {
       "type": "visual",
+      "title": "Saviorism",
+      "image": "/img/saviour.svg"
+    },
+    {
+      "type": "visual",
       "title": "We The People",
       "image": "/img/flag-us.svg"
     },
