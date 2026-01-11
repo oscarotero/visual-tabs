@@ -2,6 +2,11 @@
   "slides": [
     {
       "type": "visual",
+      "title": "Prosperity › Progress",
+      "image": "/img/triangles-prosperity.svg"
+    },
+    {
+      "type": "visual",
       "title": "Strategy",
       "image": "/img/strategy.svg"
     },
@@ -38,11 +43,6 @@
       "author": "Adriano Olivetti",
       "username": "@adriano",
       "avatar": "/img/avatar-adriano.jpg"
-    },
-    {
-      "type": "visual",
-      "title": "Prosperity › Progress",
-      "image": "/img/triangles-prosperity.svg"
     },
     {
       "type": "art",
@@ -1272,7 +1272,7 @@
     {
       "type": "tweet",
       "title": "The Job",
-      "text": "<p>Design is thinking made visual.</p>",
+      "text": "<p>Understanding graphic design is not as complicated as it may seem. Design is thinking made visual.</p>",
       "date": "May 24, 1966",
       "author": "Saul Bass",
       "username": "@saulbass",
