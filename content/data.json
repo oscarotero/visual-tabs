@@ -1026,6 +1026,11 @@
       "avatar": "/img/avatar-george-lois.jpg"
     },
     {
+      "type": "visual",
+      "title": "The Enlightenment",
+      "image": "/img/enlightment.svg"
+    },
+    {
       "type": "tweet",
       "title": "Happy Life",
       "text": "<p>The joy of the creative process, minute by minute, hour after hour, day by day, is the sublime path to true happiness.</p>",
