@@ -284,12 +284,12 @@
     },
     {
       "type": "art",
-      "title": "The Two Majesties",
-      "author": "Jean-Léon Gerôme",
-      "year": "1883",
-      "url": "https://historia-arte.com/obras/las-dos-majestades",
-      "source": "HA!",
-      "image": "/img/art-lion-majesties-gerome-1883.webp"
+      "title": "The Death of Caesar ",
+      "author": "Jean-Léon Gérôme",
+      "year": "1867",
+      "url": "https://en.wikipedia.org/wiki/The_Death_of_Caesar_(G%C3%A9r%C3%B4me)",
+      "source": "Wikipedia",
+      "image": "/img/art-deth-caesar-gerome-1867.webp"
     },
     {
       "type": "tweet",
@@ -318,6 +318,15 @@
       "type": "visual",
       "title": "Zeitgeist",
       "image": "/img/zeitgeist.svg"
+    },
+    {
+      "type": "art",
+      "title": "Bonaparte Before the Sphinx",
+      "author": "Jean-Léon Gérôme",
+      "year": "1886",
+      "url": "https://en.wikipedia.org/wiki/Bonaparte_Before_the_Sphinx",
+      "source": "Wikipedia",
+      "image": "/img/art-bonaparte-esfing-gerome-1866.webp"
     },
     {
       "type": "visual",
@@ -393,6 +402,15 @@
       "author": "Joe MacMillan",
       "username": "joeceo",
       "avatar": "/img/avatar-joe.jpg"
+    },
+    {
+      "type": "art",
+      "title": "The Two Majesties",
+      "author": "Jean-Léon Gérôme",
+      "year": "1883",
+      "url": "https://historia-arte.com/obras/las-dos-majestades",
+      "source": "HA!",
+      "image": "/img/art-lion-majesties-gerome-1883.webp"
     },
     {
       "type": "tweet",
