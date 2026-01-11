@@ -269,7 +269,7 @@ body {
   width: 100vw;
   height: 100vh;
   height: 100dvh;
-  background: rgba(10, 10, 10, 1);
+  background: rgba(13, 13, 13, 1);
   color: #f5f5f5;
 }
 main {
@@ -299,14 +299,8 @@ Template Content 1 // Visual Thinking
 * * */
 
 .content img.slide {
-  width: 260px;
+    width: min(80vw, 320px);
   animation: fadeIn 1.2s ease-in-out;
-}
-
-@media (min-width: 400px) {
-  .content img.slide {
-    width: 320px;
-  }
 }
 
 /* * * 
@@ -314,7 +308,6 @@ Template Content 2 // Tweet Quote
 * * */
 
 .tweet-card {
-  background-color: #050505;
   border-radius: 3px;
   padding: 24px;
   max-width: 300px;
@@ -596,6 +589,7 @@ a svg:hover {
   flex: 1;
   padding: 0 96px 0 48px;
   font-size: 0.7rem;
+  line-height: 1;
   letter-spacing: 0.1rem;
   text-transform: uppercase;
   text-align: center;
