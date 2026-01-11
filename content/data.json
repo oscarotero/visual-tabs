@@ -340,7 +340,7 @@
     },
     {
       "type": "visual",
-      "title": "Braun T3 (1958)",
+      "title": "Braun T3",
       "image": "/img/speaker-dots-braun.svg"
     },
     {
@@ -545,8 +545,8 @@
     },
     {
       "type": "visual",
-      "title": "West",
-      "image": "/img/olive.svg"
+      "title": "Civilization",
+      "image": "/img/olive-civilization.svg"
     },
     {
       "type": "tweet",
