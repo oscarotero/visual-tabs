@@ -840,6 +840,11 @@
       "avatar": "/img/avatar-ortega.jpg"
     },
     {
+      "type": "visual",
+      "title": "Understanding",
+      "image": "/img/triangle-circle.svg"
+    },
+    {
       "type": "tweet",
       "title": "Wake up!",
       "text": "<p>A fundamental difference between modern dictatorships and all other tyrannies of the past is that terror is no longer used as a means to exterminate and frighten opponents, but as an instrument to rule masses of people who are perfectly obedient.</p>",
@@ -1046,6 +1051,11 @@
       "author": "Don Draper",
       "username": "@draper",
       "avatar": "/img/avatar-draper.jpg"
+    },
+    {
+      "type": "visual",
+      "title": "Build the impossible",
+      "image": "/img/hegagon-impossible.svg"
     },
     {
       "type": "tweet",
