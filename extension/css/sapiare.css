@@ -5,7 +5,7 @@
   font-display: swap;
   src:
     url(fonts/quantico.woff2) format("woff2"),
-    url(/quantico.woff) format("woff");
+    url(fonts/quantico.woff) format("woff");
 }
 
 @font-face {
