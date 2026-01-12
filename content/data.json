@@ -1277,7 +1277,7 @@
     {
       "type": "visual",
       "title": "Slavery",
-      "image": "/img/bell.svg"
+      "image": "/img/bell-slavery.svg"
     },
     {
       "type": "tweet",
@@ -1316,11 +1316,6 @@
       "type": "visual",
       "title": "History",
       "image": "/img/history.svg"
-    },
-    {
-      "type": "visual",
-      "title": "The Reformation",
-      "image": "/img/reform.svg"
     },
     {
       "type": "visual",
