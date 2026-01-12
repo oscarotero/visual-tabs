@@ -415,7 +415,6 @@ Template Content 3 // Card with bg image
   display: flex;
   align-items: stretch;
   width: calc(100vw - 60px);
-  max-width: 1600px;
   height: calc(100vh - 60px);
   background-color: #222;
   animation: fadeIn 1.2s ease-in-out;
@@ -452,7 +451,6 @@ Template Content 3 // Card with bg image
   justify-content: space-between;
   align-items: flex-end;
   width: 100%;
-  max-width: 1400px;
   margin: 0 auto;
   padding: 30px;
 }
