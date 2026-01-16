@@ -1360,6 +1360,15 @@
     },
     {
       "type": "tweet",
+      "title": "Bravery",
+      "text": "<p>Our lives begin to end the day we become silent about things that matter.</p>",
+      "date": "Feb 08, 1965",
+      "author": "Martin Luther King, Jr.",
+      "username": "@mlk",
+      "avatar": "/img/avatar-mlk.jpg"
+    },
+    {
+      "type": "tweet",
       "title": "Fraternity",
       "text": "<p>I have a dream that one day this nation will rise up and live out the true meaning of its creed: We hold these truths to be self-evident, that all men are created equal.</p>",
       "date": "Aug 28, 1963",
