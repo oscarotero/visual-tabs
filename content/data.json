@@ -664,6 +664,15 @@
       "image": "/img/platform.svg"
     },
     {
+      "type": "tweet",
+      "title": "Materialism",
+      "text": "<p>Money is numbers and numbers never end. If it takes money to be happy, your search for happiness will never end.</p>",
+      "date": "Jun 03, 1969",
+      "author": "Bob Marley",
+      "username": "@TuffGong",
+      "avatar": "/img/avatar-marley.webp"
+    },
+    {
       "type": "visual",
       "title": "Think Again",
       "image": "/img/vw-again.svg"
@@ -1285,6 +1294,15 @@
       "image": "/img/vanity.svg"
     },
     {
+      "type": "tweet",
+      "title": "Ochocracy",
+      "text": "<p>You will never find justice in a world where criminals make the rules.</p>",
+      "date": "Mar 28, 1973",
+      "author": "Bob Marley",
+      "username": "@TuffGong",
+      "avatar": "/img/avatar-marley.webp"
+    },
+    {
       "type": "art",
       "title": "Stump Speaking",
       "author": "George Caleb Bingham",
@@ -1297,16 +1315,6 @@
       "type": "visual",
       "title": "Ego",
       "image": "/img/ego.svg"
-    },
-    {
-      "type": "visual",
-      "title": "Reality",
-      "image": "/img/reality.svg"
-    },
-    {
-      "type": "visual",
-      "title": "History",
-      "image": "/img/history.svg"
     },
     {
       "type": "visual",
@@ -1366,6 +1374,11 @@
       "author": "Martin Luther King, Jr.",
       "username": "@mlk",
       "avatar": "/img/avatar-mlk.jpg"
+    },
+    {
+      "type": "visual",
+      "title": "History",
+      "image": "/img/history.svg"
     },
     {
       "type": "tweet",
@@ -1452,6 +1465,11 @@
       "author": "Benjamin Franklin",
       "username": "@bjfranklin",
       "avatar": "/img/avatar-franklin.jpg"
+    },
+    {
+      "type": "visual",
+      "title": "Reality",
+      "image": "/img/reality.svg"
     },
     {
       "type": "tweet",
