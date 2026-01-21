@@ -608,6 +608,11 @@
       "avatar": "/img/avatar-dieter.jpg"
     },
     {
+      "type": "visual",
+      "title": "Winter is coming",
+      "image": "/img/winter.svg"
+    },
+    {
       "type": "tweet",
       "title": "Contradictions",
       "text": "<p>I like to be in New York. Le Corbusier described it in the 1930s as a 'wonderful catastrophe.' It is still a wonderful catastrophe, but inspiring.</p>",
