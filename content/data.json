@@ -590,6 +590,11 @@
       "avatar": "/img/avatar-jobs.jpg"
     },
     {
+      "type": "visual",
+      "title": "Anger",
+      "image": "/img/anger.svg"
+    },
+    {
       "type": "tweet",
       "title": "Made in Germany",
       "text": "<p>First and foremost, Braun's special design method is based on constant and close cooperation between product designers and engineers, between communication and marketing, and above all between product design and communication. </p>",
@@ -1366,6 +1371,11 @@
       "author": "Mark Twain",
       "username": "@twain",
       "avatar": "/img/avatar-twain.jpg"
+    },
+    {
+      "type": "visual",
+      "title": "Gluttony",
+      "image": "/img/gluttony.svg"
     },
     {
       "type": "tweet",
