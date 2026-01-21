@@ -1177,6 +1177,11 @@
       "avatar": "/img/avatar-hegarty.jpg"
     },
     {
+      "type": "visual",
+      "title": "Greed",
+      "image": "/img/greed.svg"
+    },
+    {
       "type": "tweet",
       "title": "Real Power",
       "text": "<p>Creativity can change the way we feel about something and will stay with us for eternity.</p>",
