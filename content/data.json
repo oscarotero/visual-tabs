@@ -1211,6 +1211,11 @@
     },
     {
       "type": "visual",
+      "title": "Propaganda",
+      "image": "/img/propaganda.svg"
+    },
+    {
+      "type": "visual",
       "title": "Think Zen",
       "image": "/img/point-focus.svg"
     },
