@@ -129,6 +129,11 @@
     },
     {
       "type": "visual",
+      "title": "Right to privacy",
+      "image": "/img/privacy-rights.svg"
+    },
+    {
+      "type": "visual",
       "title": "Excellence",
       "image": "/img/excellence.svg"
     },
