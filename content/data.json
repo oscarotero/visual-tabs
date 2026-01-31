@@ -6,6 +6,15 @@
       "image": "/img/triangles-prosperity.svg"
     },
     {
+      "type": "art",
+      "title": "Appraising the Day's Work",
+      "author": "Anna Ancher",
+      "year": "1883",
+      "url": "https://historia-arte.com/obras/juzgando-un-dia-de-trabajo",
+      "source": "HA!",
+      "image": "/img/art-day-work-ancher-1883.webp"
+    },
+    {
       "type": "visual",
       "title": "Strategy",
       "image": "/img/strategy.svg"
@@ -97,15 +106,6 @@
       "author": "Steve Jobs",
       "username": "@sj",
       "avatar": "/img/avatar-jobs.jpg"
-    },
-    {
-      "type": "art",
-      "title": "Appraising the Day's Work",
-      "author": "Anna Ancher",
-      "year": "1883",
-      "url": "https://historia-arte.com/obras/juzgando-un-dia-de-trabajo",
-      "source": "HA!",
-      "image": "/img/art-day-work-ancher-1883.webp"
     },
     {
       "type": "visual",
@@ -662,6 +662,11 @@
       "type": "visual",
       "title": "Culture",
       "image": "/img/culture.svg"
+    },
+    {
+      "type": "visual",
+      "title": "The Age of Performance",
+      "image": "/img/performance-masks.svg"
     },
     {
       "type": "visual",
