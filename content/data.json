@@ -851,6 +851,11 @@
       "avatar": "/img/avatar-ortega.jpg"
     },
     {
+      "type": "visual",
+      "title": "Change",
+      "image": "/img/graph-change.svg"
+    },
+    {
       "type": "tweet",
       "title": "The Elite",
       "text": "<p>The truly select man is not the arrogant figure who believes himself above others, but the one who holds himself to higher standards than anyone else, even if he cannot fully live up to them.</p>",
