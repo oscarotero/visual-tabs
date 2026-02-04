@@ -1273,11 +1273,6 @@
     },
     {
       "type": "visual",
-      "title": "Create Heaven On Earth",
-      "image": "/img/heaven-doors.svg"
-    },
-    {
-      "type": "visual",
       "title": "Burocracy",
       "image": "/img/maze.svg"
     },
