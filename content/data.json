@@ -573,6 +573,11 @@
     },
     {
       "type": "visual",
+      "title": "Barcelona",
+      "image": "/img/barcelona.svg"
+    },
+    {
+      "type": "visual",
       "title": "Motivation",
       "image": "/img/flame.svg"
     },
