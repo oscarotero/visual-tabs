@@ -1661,6 +1661,33 @@
       "author": "Bertrand Russell",
       "username": "@russell",
       "avatar": "/img/avatar-russell.jpg"
+    },
+    {
+      "type": "tweet",
+      "title": "Robinson Crusoe",
+      "text": "<p>It is a good exercise, in empty or ugly hours of the day, to look at anything, the coal-scuttle or the book-case, and think how happy one could be to have brought it out of the sinking ship on to the solitary island. But it is a better exercise still to remember how all things have had this hair-breadth escape: everything has been saved from a wreck.</p>",
+      "date": "Feb 12, 1908",
+      "author": "G.K. Chesterton",
+      "username": "@chesterton",
+      "avatar": "/img/chesterton-av.webp"
+    },
+    {
+      "type": "tweet",
+      "title": "Possibility",
+      "text": "<p>Fairy tales do not tell children the dragons exist. Children already know that dragons exist. Fairy tales tell children the dragons can be killed.</p>",
+      "date": "Jun 23, 1906",
+      "author": "G.K. Chesterton",
+      "username": "@chesterton",
+      "avatar": "/img/chesterton-av.webp"
+    },
+    {
+      "type": "tweet",
+      "title": "Self Control",
+      "text": "<p>Drink because you are happy, but never because you are miserable.</p>",
+      "date": "Nov 27, 1902",
+      "author": "G.K. Chesterton",
+      "username": "@chesterton",
+      "avatar": "/img/chesterton-av.webp"
     }
   ]
 }
